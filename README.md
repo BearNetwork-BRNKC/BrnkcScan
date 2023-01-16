@@ -1,5 +1,5 @@
-<h1 align="center">BlockScout</h1>
-<p align="center">Blockchain Explorer for inspecting and analyzing EVM Chains.</p>
+<h1 align="center">熊網鏈區塊帳本</h1>
+<p align="center">BrnkcScan為用戶提供了一個全面、易於使用的界面來查看、確認和檢查熊網區塊鏈上的交易。</p>
 <div align="center">
 
 [![Blockscout](https://github.com/blockscout/blockscout/workflows/Blockscout/badge.svg?branch=master)](https://github.com/blockscout/blockscout/actions)
@@ -7,46 +7,49 @@
 
 </div>
 
+BrnkcScan原型是採用BlockScout架構，同時針對熊網鏈需求而調整過，為確保BlockScout原有知識成果，因此保留BlockScout所有其他相關資訊提供有相關需求的區塊鏈同好可以參考或直接到BlockScout相關網站。
 
-BlockScout provides a comprehensive, easy-to-use interface for users to view, confirm, and inspect transactions on EVM (Ethereum Virtual Machine) blockchains. This includes the POA Network, Gnosis Chain, Ethereum Classic and other **Ethereum testnets, private networks and sidechains**.
+另外,部份功能涉及到熊網區塊鏈內部相關技術，所以BlockScout源碼調整過後的部份，並未上傳到Github。
 
-See our [project documentation](https://docs.blockscout.com/) for detailed information and setup instructions.
+純淨無修改的BlockScout，還請移駕至BlockScout官網。
 
-For questions, comments and feature requests see the [discussions section](https://github.com/blockscout/blockscout/discussions).
+[項目文件](https://docs.blockscout.com/)了解詳細信息和設置說明.
 
-## About BlockScout
+有關問題、評論和功能請求，請參閱 [討論部分](https://github.com/blockscout/blockscout/discussions).
 
-BlockScout is an Elixir application that allows users to search transactions, view accounts and balances, and verify smart contracts on the Ethereum network including all forks and sidechains.
+## 關於 BlockScout
 
-Currently available full-featured block explorers (Etherscan, Etherchain, Blockchair) are closed systems which are not independently verifiable.  As Ethereum sidechains continue to proliferate in both private and public settings, transparent, open-source tools are needed to analyze and validate transactions.
+BlockScout 是一個 Elixir 應用程序，允許用戶搜索交易、查看賬戶和余額，以及驗證以太坊網絡上的智能合約，包括所有分叉和側鏈。
 
-## Supported Projects
+當前可用的全功能區塊瀏覽器（Etherscan、Etherchain、Blockchair）是無法獨立驗證的封閉系統。隨著以太坊側鏈在私人和公共環境中繼續激增，需要透明的開源工具來分析和驗證交易。
 
-BlockScout supports a number of projects. Hosted instances include POA Network, Gnosis Chain, Ethereum Classic, Sokol & Kovan testnets, and other EVM chains.
+## 資助項目
 
-- [List of hosted mainnets, testnets, and additional chains using BlockScout](https://docs.blockscout.com/for-projects/supported-projects)
-- [Hosted instance versions](https://docs.blockscout.com/about/use-cases/hosted-blockscout)
+BlockScout 支持許多項目。託管實例包括 POA Network、Gnosis Chain、Ethereum Classic、Sokol & Kovan 測試網和其他 EVM 鏈。
 
-## Getting Started
+- [使用 BlockScout 的託管主網、測試網和附加鏈列表](https://docs.blockscout.com/for-projects/supported-projects)
+- [託管實例版本](https://docs.blockscout.com/about/use-cases/hosted-blockscout)
 
-See the [project documentation](https://docs.blockscout.com/) for instructions:
+## 入門
 
-- [Requirements](https://docs.blockscout.com/for-developers/information-and-settings/requirements)
-- [Ansible deployment](https://docs.blockscout.com/for-developers/ansible-deployment)
-- [Manual deployment](https://docs.blockscout.com/for-developers/manual-deployment)
-- [ENV variables](https://docs.blockscout.com/for-developers/information-and-settings/env-variables)
-- [Configuration options](https://docs.blockscout.com/for-developers/configuration-options)
+[項目文件](https://docs.blockscout.com/)說明：
 
-## Acknowledgements
+- [要求](https://docs.blockscout.com/for-developers/information-and-settings/requirements)
+- [部署](https://docs.blockscout.com/for-developers/ansible-deployment)
+- [手動部署](https://docs.blockscout.com/for-developers/manual-deployment)
+- [環境變量](https://docs.blockscout.com/for-developers/information-and-settings/env-variables)
+- [配置選項](https://docs.blockscout.com/for-developers/configuration-options)
 
-We would like to thank the [EthPrize foundation](http://ethprize.io/) for their funding support.
+## 致謝
 
-## Contributing
+我們要感謝 [EthPrize基金會](http://ethprize.io/)他們的資金支持。
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution and pull request protocol. We expect contributors to follow our [code of conduct](CODE_OF_CONDUCT.md) when submitting code or comments.
+## 貢獻
 
-## License
+[CONTRIBUTING.md](CONTRIBUTING.md)用於貢獻和拉取請求協議。我們希望貢獻者遵循我們的[code of conduct](CODE_OF_CONDUCT.md) 提交代碼或評論時。
 
-[![License: GPL v3.0](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+## 許可證
 
-This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
+[![許可證：GPL v3.0](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+該項目根據 GNU 通用公共許可證 v3.0 獲得許可。見 [許可證](LICENSE) 文件的詳細信息。
