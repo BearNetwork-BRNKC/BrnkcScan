@@ -20,29 +20,28 @@
 
 ### Enhancements
 
-Enhancements cover all changes that make users lives better:
+增強功能涵蓋了讓用戶生活更美好的所有變化：
 
-* [feature requests filed as issues](https://github.com/blockscout/blockscout/labels/enhancement) that impact end-user [contributors](https://github.com/blockscout/blockscout/labels/contributor) and [developers](https://github.com/blockscout/blockscout/labels/developer)
-* changes to the [architecture](https://github.com/blockscout/blockscout/labels/architecture) that make it easier for contributors (in the GitHub sense), dev-ops, and deployers to maintain and run blockscout
+* [作為問題提交的功能請求](https://github.com/blockscout/blockscout/labels/enhancement) that impact end-user [contributors](https://github.com/blockscout/blockscout/labels/contributor) and [developers](https://github.com/blockscout/blockscout/labels/developer)
+* 更改為 [建築學](https://github.com/blockscout/blockscout/labels/architecture) 讓貢獻者（在 GitHub 意義上）、開發人員和部署人員更容易維護和運行 blockscout
 
 ### Bug Fixes
 
-For bug fixes, whenever possible, there should be at least 2 commits:
+對於錯誤修復，只要有可能，應該至少有 2 次提交：
 
-1. A regression test commit that contains tests that demonstrate the bug and show as failing.
-2. The bug fix commit that shows the regression test now passing.
+1. 回歸測試提交，其中包含演示錯誤並顯示為失敗的測試。
+2. 顯示回歸測試現在通過的錯誤修復提交。
 
-This format ensures that we can run the test to reproduce the original bug without depending on the new code in the fix, which could lead to the test falsely passing.
+這種格式確保我們可以運行測試來重現原始錯誤，而不依賴於修復中的新代碼，這可能會導致測試錯誤地通過。
 
 ### Incompatible Changes
 
-Incompatible changes can arise as a side-effect of either Enhancements or Bug Fixes.  During Enhancements, incompatible changes can occur because, as an example, in order to support showing end-users new data, the database schema may need to be changed and the index rebuilt from scratch.  During bug fixes, incompatible changes can occur because in order to fix a bug, the schema had to change, or how certain internal APIs are called changed.
-
-* Incompatible changes should be called out explicitly, with any steps the various user roles need to do to upgrade.
-* If a schema change occurs that requires a re-index add the following to the Pull Request description:
+不兼容的更改可能會作為增強功能或錯誤修復的副作用出現。在增強期間，可能會發生不兼容的更改，因為例如，為了支持向最終用戶顯示新數據，可能需要更改數據庫架構並從頭開始重建索引。在錯誤修復期間，可能會發生不兼容的更改，因為為了修復錯誤，架構必須更改，或者某些內部 API 的調用方式已更改。
+*應明確指出不兼容的更改，以及各種用戶角色需要執行升級的任何步驟。
+*如果發生需要重新索引的架構更改，請將以下內容添加到合併請求描述中：
 
   ```markdown
-  **NOTE**: A database reset and re-index is required
+  **NOTE**: 需要重置數據庫並重新編制索引
   ```
 
 ### Pull Request

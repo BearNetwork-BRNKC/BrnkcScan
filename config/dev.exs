@@ -1,6 +1,6 @@
 import Config
 
-# DO NOT make it `:debug` or all Ecto logs will be shown for indexer
+# 不要將其設置為 `:debug` 否則所有 Ecto 日誌都將顯示給索引器
 config :logger, :console, level: :info
 
 config :logger, :ecto,

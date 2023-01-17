@@ -15,8 +15,8 @@
 
 ### Expected behaviour
 
-*Tell us what should happen.*
+*告訴我們應該發生什麼.*
 
 ### Actual behaviour
 
-*Tell us what happens instead.*
+*告訴我們發生了什麼.*

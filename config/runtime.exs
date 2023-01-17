@@ -36,16 +36,16 @@ config :block_scout_web, :footer,
   enable_forum_link: System.get_env("FOOTER_ENABLE_FORUM_LINK", "false") == "true"
 
 ######################
-### BlockScout Web ###
+### BlockScout 網站 ###
 ######################
 
-# Configures Ueberauth's Auth0 auth provider
+# 配置 Ueberauth 的 Auth0 身份驗證提供程序
 config :ueberauth, Ueberauth.Strategy.Auth0.OAuth,
   domain: System.get_env("ACCOUNT_AUTH0_DOMAIN"),
   client_id: System.get_env("ACCOUNT_AUTH0_CLIENT_ID"),
   client_secret: System.get_env("ACCOUNT_AUTH0_CLIENT_SECRET")
 
-# Configures Ueberauth local settings
+# 配置 Ueberauth 本地設置
 config :ueberauth, Ueberauth,
   logout_url: System.get_env("ACCOUNT_AUTH0_LOGOUT_URL"),
   logout_return_to_url: System.get_env("ACCOUNT_AUTH0_LOGOUT_RETURN_URL")
@@ -146,7 +146,7 @@ config :block_scout_web, BlockScoutWeb.Endpoint,
     host: System.get_env("BLOCKSCOUT_HOST") || "localhost"
   ]
 
-# Configures History
+# 配置歷史
 price_chart_config =
   if System.get_env("SHOW_PRICE_CHART", "false") != "false" do
     %{market: [:price, :market_cap]}

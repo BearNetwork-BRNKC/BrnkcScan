@@ -30,7 +30,7 @@ pool_size =
     do: ConfigHelper.get_db_pool_size("50"),
     else: ConfigHelper.get_db_pool_size("40")
 
-# Configures the database
+# 配置數據庫
 config :explorer, Explorer.Repo,
   url: System.get_env("DATABASE_URL"),
   pool_size: pool_size,
@@ -41,13 +41,13 @@ pool_size_api =
     do: ConfigHelper.get_api_db_pool_size("50"),
     else: ConfigHelper.get_api_db_pool_size("10")
 
-# Configures API the database
+# 配置API數據庫
 config :explorer, Explorer.Repo.Replica1,
   url: ConfigHelper.get_api_db_url(),
   pool_size: pool_size_api,
   ssl: ConfigHelper.ssl_enabled?()
 
-# Configures Account database
+# 配置賬戶數據庫
 config :explorer, Explorer.Repo.Account,
   url: ConfigHelper.get_account_db_url(),
   pool_size: ConfigHelper.get_account_db_pool_size("50"),

@@ -1,4 +1,4 @@
-# App artifacts
+# 應用工件
 /_build
 /apps/*/cover
 /apps/*/logs

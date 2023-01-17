@@ -2,19 +2,19 @@
 
 set -e
 
-# Log a timestamped message to the console
+# 將帶時間戳的消息記錄到控制台
 function log() {
     ts=$(date '+%Y-%m-%dT%H:%M:%SZ')
     printf '%s [bin/deploy] %s\n' "$ts" "$1"
 }
 
-# Log an error message to the console and exit
+# 將錯誤消息記錄到控制台並退出
 function error() {
     log "$1"
     exit 1
 }
 
-# Perform the deployment for a specific chain
+# 執行特定鏈的部署
 function deploy_chain() {
     chain="$1"
     if [ -z "$chain" ]; then

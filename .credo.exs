@@ -1,12 +1,12 @@
-# This file contains the configuration for Credo and you are probably reading
-# this after creating it with `mix credo.gen.config`.
+# 此文件包含 Credo 的配置，您可能正在閱讀
+#這是在使用 `mix credo.gen.config` 創建它之後。
 #
-# If you find anything wrong or unclear in this file, please report an
-# issue on GitHub: https://github.com/rrrene/credo/issues
+# 如果您發現此文件中有任何錯誤或不清楚的地方，請報告
+# GitHub 上的問題: https://github.com/rrrene/credo/issues
 #
 %{
   #
-  # You can have as many configs as you like in the `configs:` field.
+  # 您可以在 `configs:` 字段中擁有任意數量的配置.
   configs: [
     %{
       #
