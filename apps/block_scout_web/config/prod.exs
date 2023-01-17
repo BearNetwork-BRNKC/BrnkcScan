@@ -4,7 +4,7 @@ import Config
 # 來源，例如您的系統環境。為此原因，
 # 你不會在下面找到 :http 配置，而是在裡面設置
 # BlockScoutWeb.Endpoint.init/2 當 load_from_system_env 是
-＃ 真的。任何動態配置都應該在那裡完成。
+# 真的。任何動態配置都應該在那裡完成。
 #
 # 不要忘記將 url host 配置為有意義的東西，
 # Phoenix 在生成 URL 時使用此信息。
