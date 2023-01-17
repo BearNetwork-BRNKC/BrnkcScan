@@ -1,11 +1,11 @@
-//跟踪器允許 Geth 的 `debug_traceTransaction` 模仿 Parity 的 `trace_replayTransaction` 的輸出
+// tracer allows Geth's `debug_traceTransaction` to mimic the output of Parity's `trace_replayTransaction`
 {
-    // EVM 執行的調用堆棧。
+    // The call stack of the EVM execution.
     callStack: [{}],
 
-    // VM 執行的每個操作碼都會調用 step。
+    // step is invoked for every opcode that the VM executes.
     step(log, db) {
-        // 立即捕獲任何錯誤
+        // Capture any errors immediately
         const error = log.getError();
 
         if (error !== undefined) {
@@ -15,9 +15,9 @@
         }
     },
 
-    // 當操作碼的實際執行失敗時調用故障。
+    // fault is invoked when the actual execution of an opcode fails.
     fault(log, db) {
-        // 如果最頂層的調用已經恢復，則不再處理附加故障
+        // If the topmost call already reverted, don't handle the additional fault again
         if (this.topCall().error === undefined) {
             this.putError(log);
         }
