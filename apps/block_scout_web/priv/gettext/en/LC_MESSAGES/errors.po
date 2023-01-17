@@ -5,7 +5,7 @@
 ## 無法靜態提取的翻譯。
 ##
 ## 運行 `mix gettext.extract` 將這個文件帶到
-＃＃ 日期。將 `msgstr` 留空，因為在這裡將它們更改為 no
+## 日期。將 `msgstr` 留空，因為在這裡將它們更改為 no
 ## 效果：改為在 PO (`.po`) 文件中編輯它們。
 ## 來自 Ecto.Changeset.cast/4
 msgid "can't be blank"
