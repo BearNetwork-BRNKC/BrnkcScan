@@ -337,7 +337,7 @@ msgstr "平均"
 #: lib/block_scout_web/templates/chain/show.html.eex:100
 #, elixir-autogen, elixir-format
 msgid "Average block time"
-msgstr "平均出塊時間"
+msgstr "平均交易時間"
 
 #: lib/block_scout_web/templates/account/api_key/form.html.eex:25
 #, elixir-autogen, elixir-format
@@ -973,7 +973,7 @@ msgstr "來自帳戶的自定義 ABI"
 #: lib/block_scout_web/templates/chain/show.html.eex:69
 #, elixir-autogen, elixir-format
 msgid "Daily Transactions"
-msgstr "每日交易"
+msgstr "每日交易次數"
 
 #: lib/block_scout_web/templates/address_logs/_logs.html.eex:101
 #: lib/block_scout_web/templates/log/_data_decoded_view.html.eex:7
@@ -1377,7 +1377,7 @@ msgstr "交易使用的氣體"
 #: lib/block_scout_web/templates/chain/gas_price_oracle_legend_item.html.eex:18
 #, elixir-autogen, elixir-format
 msgid "Gas tracker"
-msgstr "氣體追踪器"
+msgstr "交易手續費"
 
 #: lib/block_scout_web/templates/address/overview.html.eex:239
 #, elixir-autogen, elixir-format
@@ -2182,7 +2182,7 @@ msgstr "恢復原因"
 #: lib/block_scout_web/views/internal_transaction_view.ex:28
 #, elixir-autogen, elixir-format
 msgid "Reward"
-msgstr "報酬"
+msgstr "交易手續費"
 
 #: lib/block_scout_web/templates/admin/dashboard/index.html.eex:21
 #, elixir-autogen, elixir-format
@@ -2788,7 +2788,7 @@ msgstr "代幣轉帳"
 #: lib/block_scout_web/templates/address/_metatags.html.eex:13
 #, elixir-autogen, elixir-format
 msgid "Top Accounts - %{subnetwork} Explorer"
-msgstr "最佳帳戶 - %{subnetwork} 帳本"
+msgstr "地址持幣詳情 - %{subnetwork} 帳本"
 
 #: lib/block_scout_web/templates/address_logs/index.html.eex:14
 #, elixir-autogen, elixir-format
@@ -2845,7 +2845,7 @@ msgstr "總交易費"
 #: lib/block_scout_web/templates/chain/show.html.eex:109
 #, elixir-autogen, elixir-format
 msgid "Total transactions"
-msgstr "交易總額"
+msgstr "交易總次數"
 
 #: lib/block_scout_web/templates/account/tag_transaction/form.html.eex:11
 #: lib/block_scout_web/templates/account/tag_transaction/index.html.eex:23
@@ -3091,7 +3091,7 @@ msgstr "已驗證"
 #: lib/block_scout_web/templates/verified_contracts/index.html.eex:6
 #, elixir-autogen, elixir-format
 msgid "Verified Contracts"
-msgstr "驗證合約"
+msgstr "已驗證合約"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:83
 #, elixir-autogen, elixir-format

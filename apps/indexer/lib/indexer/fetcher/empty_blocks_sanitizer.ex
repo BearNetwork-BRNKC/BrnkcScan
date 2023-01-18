@@ -56,7 +56,7 @@ defmodule Indexer.Fetcher.EmptyBlocksSanitizer do
         :sanitize_empty_blocks,
         %{interval: interval, json_rpc_named_arguments: json_rpc_named_arguments} = state
       ) do
-    Logger.info("Start sanitizing of empty blocks. Batch size is #{limit()}",
+    Logger.info("開始清理空塊。批量大小是 #{limit()}",
       fetcher: :empty_blocks_to_refetch
     )
 
@@ -113,7 +113,7 @@ defmodule Indexer.Fetcher.EmptyBlocksSanitizer do
       end
     end)
 
-    Logger.info("Batch of empty blocks is sanitized",
+    Logger.info("清理了一批空塊",
       fetcher: :empty_blocks_to_refetch
     )
   end
