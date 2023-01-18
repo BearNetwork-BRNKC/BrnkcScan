@@ -18,14 +18,14 @@ config :block_scout_web, BlockScoutWeb.Endpoint,
   secret_key_base:
     System.get_env("SECRET_KEY_BASE") || "RMgI4C1HSkxsEjdhtGMfwAHfyT6CKWXOgzCboJflfSm4jeAlic52io05KB6mqzc5",
   http: [
-    port: port || 4000
+    port: port || 18520
   ],
   url: [
     scheme: "http",
-    host: System.get_env("BLOCKSCOUT_HOST", "localhost")
+    host: System.get_env("BLOCKSCOUT_HOST", "192.168.50.201")
   ],
   https: [
-    port: (port && port + 1) || 4001,
+    port: (port && port + 1) || 18521,
     cipher_suite: :strong,
     certfile: System.get_env("CERTFILE") || "priv/cert/selfsigned.pem",
     keyfile: System.get_env("KEYFILE") || "priv/cert/selfsigned_key.pem"
