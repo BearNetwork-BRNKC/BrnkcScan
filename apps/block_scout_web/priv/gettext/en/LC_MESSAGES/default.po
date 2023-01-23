@@ -396,7 +396,7 @@ msgstr "每種氣體的基本費用"
 #: lib/block_scout_web/templates/api_docs/index.html.eex:5
 #, elixir-autogen, elixir-format
 msgid "Base URL:"
-msgstr "基本網址"
+msgstr "API網址"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:446
 #, elixir-autogen, elixir-format
@@ -500,7 +500,7 @@ msgstr "具有內部交易索引的區塊"
 #: lib/block_scout_web/templates/layout/_footer.html.eex:22
 #, elixir-autogen, elixir-format
 msgid "Blockscout is a tool for inspecting and analyzing EVM based blockchains. Blockchain explorer for Ethereum Networks."
-msgstr "BearNetworkScan是一種用於檢查和分析基於EVM的區塊鏈的工具。以太坊網絡的區塊鏈瀏覽器"
+msgstr "BrnkScan是一種用於檢查和分析基於EVM的區塊鏈的工具。"
 
 #: lib/block_scout_web/templates/transaction_state/_state_change.html.eex:9
 #, elixir-autogen, elixir-format
@@ -555,7 +555,7 @@ msgstr "變更"
 #: lib/block_scout_web/templates/layout/_footer.html.eex:41
 #, elixir-autogen, elixir-format
 msgid "Chat (#blockscout)"
-msgstr "聊天頻道 (#blockscout)"
+msgstr "聊天LINE社群"
 
 #: lib/block_scout_web/views/block_view.ex:65
 #, elixir-autogen, elixir-format
@@ -776,7 +776,7 @@ msgstr "在其構造函數中自毀的合約沒有發布合約代碼，無法驗
 #: lib/block_scout_web/templates/layout/_footer.html.eex:40
 #, elixir-autogen, elixir-format
 msgid "Contribute"
-msgstr "貢獻"
+msgstr "Github"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:154
 #, elixir-autogen, elixir-format
@@ -1630,7 +1630,7 @@ msgstr "日誌"
 #: lib/block_scout_web/templates/layout/_footer.html.eex:52
 #, elixir-autogen, elixir-format
 msgid "Main Networks"
-msgstr "主網絡"
+msgstr "友鏈"
 
 #: lib/block_scout_web/templates/chain/show.html.eex:52
 #: lib/block_scout_web/templates/layout/app.html.eex:46
@@ -2393,7 +2393,7 @@ msgstr "提交數據"
 #: lib/block_scout_web/templates/layout/_footer.html.eex:39
 #, elixir-autogen, elixir-format
 msgid "Submit an Issue"
-msgstr "提交問題"
+msgstr "區塊鏈RPC名單"
 
 #: lib/block_scout_web/templates/transaction/_emission_reward_tile.html.eex:8
 #: lib/block_scout_web/views/transaction_view.ex:348
@@ -2415,7 +2415,7 @@ msgstr "Telegram"
 #: lib/block_scout_web/templates/layout/_footer.html.eex:65
 #, elixir-autogen, elixir-format
 msgid "Test Networks"
-msgstr "測試網路"
+msgstr "其它資源"
 
 #: lib/block_scout_web/templates/address_contract_verification_common_fields/_library_first.html.eex:9
 #, elixir-autogen, elixir-format

@@ -9,17 +9,17 @@ defmodule BlockScoutWeb.LayoutView do
 
   @default_other_networks [
     %{
-      title: "POA",
-      url: "https://blockscout.com/poa/core"
+      title: "Etherscan",
+      url: "https://etherscan.io/"
     },
     %{
-      title: "Sokol",
-      url: "https://blockscout.com/poa/sokol",
+      title: "BlockScan",
+      url: "https://blockscan.com/",
       test_net?: true
     },
     %{
-      title: "Gnosis Chain",
-      url: "https://blockscout.com/xdai/mainnet"
+      title: "PolygonScan",
+      url: "https://polygonscan.com/"
     },
     %{
       title: "Ethereum Classic",
@@ -27,8 +27,8 @@ defmodule BlockScoutWeb.LayoutView do
       other?: true
     },
     %{
-      title: "RSK",
-      url: "https://blockscout.com/rsk/mainnet",
+      title: "BscScan",
+      url: "https://bscscan.com/",
       other?: true
     }
   ]
@@ -48,11 +48,11 @@ defmodule BlockScoutWeb.LayoutView do
   end
 
   def subnetwork_title do
-    Keyword.get(application_config(), :subnetwork) || "Sokol"
+    Keyword.get(application_config(), :subnetwork) || "BscScan"
   end
 
   def network_title do
-    Keyword.get(application_config(), :network) || "POA"
+    Keyword.get(application_config(), :network) || "Etherscan"
   end
 
   defp application_config do

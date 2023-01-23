@@ -30,9 +30,9 @@ indexer_empty_blocks_sanitizer_batch_size =
 config :indexer, Indexer.Fetcher.EmptyBlocksSanitizer, batch_size: indexer_empty_blocks_sanitizer_batch_size
 
 config :block_scout_web, :footer,
-  chat_link: System.get_env("FOOTER_CHAT_LINK", "https://discord.gg/blockscout"),
-  forum_link: System.get_env("FOOTER_FORUM_LINK", "https://forum.poa.network/c/blockscout"),
-  github_link: System.get_env("FOOTER_GITHUB_LINK", "https://github.com/blockscout/blockscout"),
+  chat_link: System.get_env("FOOTER_CHAT_LINK", "https://line.me/ti/g2/WcrbDoNbkvI4V_guU4CPjNKGSx7uDZPziHcj7Q?utm_source=invitation&utm_medium=link_copy&utm_campaign=default"),
+  forum_link: System.get_env("FOOTER_FORUM_LINK", "https://www.facebook.com/bearnetwork.net"),
+  github_link: System.get_env("FOOTER_GITHUB_LINK", "https://github.com/BearNetwork-BRNKC"),
   enable_forum_link: System.get_env("FOOTER_ENABLE_FORUM_LINK", "false") == "true"
 
 ######################
