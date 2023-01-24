@@ -1801,23 +1801,23 @@ msgstr "淨值"
 #: lib/block_scout_web/templates/address_contract_verification_via_standard_json_input/new.html.eex:9
 #, elixir-autogen, elixir-format
 msgid "New Smart Contract Verification"
-msgstr "新智能合約驗證"
+msgstr "智能合約驗證"
 
 #: lib/block_scout_web/templates/address_contract_verification_via_flattened_code/new.html.eex:9
 #: lib/block_scout_web/templates/address_contract_verification_via_multi_part_files/new.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "New Solidity Smart Contract Verification"
-msgstr "新的Solidity智能合約驗證"
+msgstr "智能合約驗證"
 
 #: lib/block_scout_web/templates/address_contract_verification_via_multi_part_files/new.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "New Solidity/Yul Smart Contract Verification"
-msgstr "新的Solidity或Yul智能合約驗證"
+msgstr "智能合約驗證"
 
 #: lib/block_scout_web/templates/address_contract_verification_vyper/new.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "New Vyper Smart Contract Verification"
-msgstr "新的Vyper智能合約驗證"
+msgstr "智能合約驗證"
 
 #: lib/block_scout_web/templates/address_contract_verification/new.html.eex:80
 #: lib/block_scout_web/templates/address_contract_verification/new.html.eex:87
@@ -1826,7 +1826,7 @@ msgstr "新的Vyper智能合約驗證"
 #: lib/block_scout_web/templates/address_contract_verification/new.html.eex:111
 #, elixir-autogen, elixir-format
 msgid "Next"
-msgstr "下一個"
+msgstr "下一步"
 
 #: lib/block_scout_web/templates/address_contract_verification_common_fields/_fetch_constructor_args.html.eex:9
 #: lib/block_scout_web/templates/address_contract_verification_common_fields/_include_nightly_builds_field.html.eex:9
