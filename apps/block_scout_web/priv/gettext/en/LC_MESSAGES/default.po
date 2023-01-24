@@ -612,17 +612,17 @@ msgstr "公司網站"
 #: lib/block_scout_web/templates/verified_contracts/index.html.eex:63
 #, elixir-autogen, elixir-format
 msgid "Compiler"
-msgstr "編譯"
+msgstr "Compiler"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:137
 #, elixir-autogen, elixir-format
 msgid "Compiler Settings"
-msgstr "編譯設置"
+msgstr "Compiler Settings"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:66
 #, elixir-autogen, elixir-format
 msgid "Compiler version"
-msgstr "編譯版本"
+msgstr "Compiler version"
 
 #: lib/block_scout_web/views/transaction_view.ex:340
 #, elixir-autogen, elixir-format
@@ -659,7 +659,7 @@ msgstr "連接丟失，單擊以加載更新的區塊"
 #: lib/block_scout_web/templates/address_internal_transaction/index.html.eex:15
 #, elixir-autogen, elixir-format
 msgid "Connection Lost, click to load newer internal transactions"
-msgstr ""
+msgstr "連接丟失，點擊加載更新的內部交易"
 
 #: lib/block_scout_web/templates/address_transaction/index.html.eex:11
 #: lib/block_scout_web/templates/pending_transaction/index.html.eex:16
@@ -741,7 +741,7 @@ msgstr "合約名稱"
 #: lib/block_scout_web/templates/smart_contract/_functions.html.eex:11
 #, elixir-autogen, elixir-format
 msgid "Contract is not verified. However, we found a verified contract with the same bytecode in Blockscout DB"
-msgstr "合約未經驗證。然而，我們在BearNetworkScan DB中發現了一個具有相同字節碼的經過驗證的合約"
+msgstr "合約未經驗證。然而，我們在BrnkScan DB中發現了一個具有相同字節碼的經過驗證的合約"
 
 #: lib/block_scout_web/templates/verified_contracts/index.html.eex:41
 #, elixir-autogen, elixir-format
