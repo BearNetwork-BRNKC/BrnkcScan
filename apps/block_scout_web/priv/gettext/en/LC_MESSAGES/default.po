@@ -612,17 +612,17 @@ msgstr "公司網站"
 #: lib/block_scout_web/templates/verified_contracts/index.html.eex:63
 #, elixir-autogen, elixir-format
 msgid "Compiler"
-msgstr "Compiler"
+msgstr ""
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:137
 #, elixir-autogen, elixir-format
 msgid "Compiler Settings"
-msgstr "Compiler Settings"
+msgstr ""
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:66
 #, elixir-autogen, elixir-format
 msgid "Compiler version"
-msgstr "Compiler version"
+msgstr ""
 
 #: lib/block_scout_web/views/transaction_view.ex:340
 #, elixir-autogen, elixir-format

@@ -36,8 +36,8 @@
       <div class="col-xs-12 col-md-4 col-lg-<%= col_size %> footer-list">
         <h3>熊網區塊鏈</h3>
         <ul>
-          <li><a href="https://bearnetwork.net" title="BearNetwork" target="_blank">熊網鏈官網</a></li>
-          <li><a href="https://brnkc-chainlist.bearnetwork.net/" title="brnkc-chainlist" target="_blank">區塊鏈RPC名單</a></li>
+          <li><a href="https://bearnetwork.net" style="color:White;" title="BearNetwork" target="_blank">熊網鏈官網</a></li>
+          <li><a href="https://brnkc-chainlist.bearnetwork.net/" style="color:White;" title="brnkc-chainlist" target="_blank">區塊鏈RPC名單</a></li>
           <li><a href="<%= Application.get_env(:block_scout_web, :footer)[:github_link] %>" rel="noreferrer" class="footer-link"><%= gettext("Contribute") %></a></li>
           <li><a href="<%= Application.get_env(:block_scout_web, :footer)[:chat_link] %>" rel="noreferrer" class="footer-link"><%= gettext("Chat (#blockscout)") %></a></li>
           <%= if Application.get_env(:block_scout_web, :footer)[:enable_forum_link] do %>
