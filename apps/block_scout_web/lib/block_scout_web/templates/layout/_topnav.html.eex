@@ -100,7 +100,7 @@
               <%= gettext("APIs") %>
             </a>
             <div class="dropdown-menu" aria-labeledby="navbarTransactionsDropdown"> 
-              <%= link href="https://bearnetwork.net/ %>
+              <%= link href="https://bearnetwork.net/" %>
               <%= link href="https://brnkc-chainlist.bearnetwork.net/" %>
               <%= link href="https://bearnetwork.net/bnkt/" %>
             </div>
