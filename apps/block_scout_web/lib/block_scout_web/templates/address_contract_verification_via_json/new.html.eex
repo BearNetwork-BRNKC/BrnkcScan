@@ -20,7 +20,7 @@
               </div>
             </div>
           </div>
-          <div class="smart-contract-form-group-tooltip">Drop all Solidity contract source files and JSON metadata file(s) created during contract compilation into the drop zone.</div>
+          <div class="smart-contract-form-group-tooltip">將Solidity編譯創建的.sol合約源文件和JSON數據文件拖放到拖放區.</div>
         </div>
       </div>
 

@@ -1089,7 +1089,7 @@ msgstr "將所有 Solidity 或 Yul 合約源文件放入拖放區"
 #: lib/block_scout_web/templates/address_contract_verification_via_json/new.html.eex:18
 #, elixir-autogen, elixir-format
 msgid "Drop sources and metadata JSON file or click here"
-msgstr "刪除源和元數據 JSON 文件或單擊此處"
+msgstr "拖放來源 JSON 文件或單擊此處"
 
 #: lib/block_scout_web/templates/address_contract_verification_via_multi_part_files/new.html.eex:67
 #, elixir-autogen, elixir-format
