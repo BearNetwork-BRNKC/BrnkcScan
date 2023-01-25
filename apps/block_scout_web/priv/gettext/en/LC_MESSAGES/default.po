@@ -155,7 +155,7 @@ msgstr "API鑰匙"
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:100
 #, elixir-autogen, elixir-format
 msgid "APIs"
-msgstr "APIs"
+msgstr "熊網鏈"
 
 #: lib/block_scout_web/templates/account/tag_address/index.html.eex:24
 #: lib/block_scout_web/templates/account/tag_transaction/index.html.eex:24
@@ -1235,7 +1235,7 @@ msgstr "錯誤：無法確定合約創建者"
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:114
 #, elixir-autogen, elixir-format
 msgid "Eth RPC"
-msgstr "Eth RPC"
+msgstr "熊網幣"
 
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:211
 #: lib/block_scout_web/templates/api_docs/_eth_rpc_item.html.eex:164
@@ -1402,7 +1402,7 @@ msgstr "Go to"
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:104
 #, elixir-autogen, elixir-format
 msgid "GraphQL"
-msgstr "GraphQL"
+msgstr "官網"
 
 #: lib/block_scout_web/templates/chain/gas_price_oracle_legend_item.html.eex:11
 #: lib/block_scout_web/templates/chain/gas_price_oracle_legend_item.html.eex:20
@@ -2081,7 +2081,7 @@ msgstr "詢問"
 #: lib/block_scout_web/templates/layout/_topnav.html.eex:109
 #, elixir-autogen, elixir-format
 msgid "RPC"
-msgstr "RPC"
+msgstr "RPC List"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:447
 #, elixir-autogen, elixir-format
