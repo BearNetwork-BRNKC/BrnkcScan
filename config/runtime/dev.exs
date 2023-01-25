@@ -22,7 +22,7 @@ config :block_scout_web, BlockScoutWeb.Endpoint,
   ],
   url: [
     scheme: "http",
-    host: System.get_env("BLOCKSCOUT_HOST", "192.168.50.201")
+    host: System.get_env("BLOCKSCOUT_HOST", "brnkscan.bearnetwork.net")
   ],
   https: [
     port: (port && port + 1) || 18521,
