@@ -103,17 +103,17 @@
               <%= link(
                     gettext("GraphQL"),
                     class: "dropdown-item #{tab_status("graphiql", @conn.request_path)}",
-                    to:"https://bearnetwork.net"
+                    to: "https://bearnetwork.net"
                   ) %>
               <%= link(
                     gettext("RPC"),
                     class: "dropdown-item #{tab_status("api-docs", @conn.request_path)}",
-                    to:"https://brnkc-chainlist.bearnetwork.net"
+                    to: "https://brnkc-chainlist.bearnetwork.net"
                   ) %>
               <%= link(
                     gettext("Eth RPC"),
                     class: "dropdown-item #{tab_status("eth-rpc-api-docs", @conn.request_path)}",
-                    to:"https://bearnetwork.net/bnkt"
+                    to: "https://bearnetwork.net/bnkt"
                   ) %>
             </div>
           </li>
