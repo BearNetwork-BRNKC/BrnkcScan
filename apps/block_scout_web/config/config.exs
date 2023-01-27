@@ -1,8 +1,8 @@
-# 這個文件負責配置你的應用
-# 及其在 Config 模塊的幫助下的依賴關係。
+# This file is responsible for configuring your application
+# and its dependencies with the aid of the Config module.
 #
-# 這個配置文件在任何依賴和之前被加載
-# 僅限於此項目。
+# This configuration file is loaded before any dependency and
+# is restricted to this project.
 import Config
 
 network_path =
@@ -23,7 +23,7 @@ api_path =
           &1
         end)).()
 
-#一般應用配置
+# General application configuration
 config :block_scout_web,
   namespace: BlockScoutWeb,
   ecto_repos: [Explorer.Repo, Explorer.Repo.Account],
@@ -36,7 +36,7 @@ config :block_scout_web, BlockScoutWeb.Counters.BlocksIndexedCounter, enabled: t
 
 config :block_scout_web, BlockScoutWeb.Counters.InternalTransactionsIndexedCounter, enabled: true
 
-# 配置端點
+# Configures the endpoint
 config :block_scout_web, BlockScoutWeb.Endpoint,
   url: [
     path: network_path,
@@ -50,14 +50,14 @@ config :block_scout_web, BlockScoutWeb.Tracer,
   adapter: SpandexDatadog.Adapter,
   trace_key: :blockscout
 
-# 配置gettext
+# Configures gettext
 config :block_scout_web, BlockScoutWeb.Gettext, locales: ~w(en), default_locale: "en"
 
 config :block_scout_web, BlockScoutWeb.SocialMedia,
-  twitter: "CT_BearNetwork",
-  telegram: "bearnetwork",
-  facebook: "bearnetwork.net",
-  instagram: "bearnetwork.net"
+  twitter: "PoaNetwork",
+  telegram: "poa_network",
+  facebook: "PoaNetwork",
+  instagram: "PoaNetwork"
 
 config :block_scout_web, BlockScoutWeb.Chain.TransactionHistoryChartController,
   # days
@@ -76,11 +76,11 @@ config :logger, :block_scout_web,
   metadata_filter: [application: :block_scout_web]
 
 config :prometheus, BlockScoutWeb.Prometheus.Instrumenter,
-  # 覆蓋 Phoenix 1.4 兼容性的默認值
+  # override default for Phoenix 1.4 compatibility
   # * `:transport_name` to `:transport`
   # * remove `:vsn`
   channel_join_labels: [:channel, :topic, :transport],
-  # 覆蓋 Phoenix 1.4 兼容性的默認值
+  # override default for Phoenix 1.4 compatibility
   # * `:transport_name` to `:transport`
   # * remove `:vsn`
   channel_receive_labels: [:channel, :topic, :transport, :event]
@@ -88,7 +88,7 @@ config :prometheus, BlockScoutWeb.Prometheus.Instrumenter,
 config :spandex_phoenix, tracer: BlockScoutWeb.Tracer
 
 config :wobserver,
-  # 只返回本地節點
+  # return only the local node
   discovery: :none,
   mode: :plug
 
@@ -103,7 +103,7 @@ config :block_scout_web, BlockScoutWeb.CSPHeader,
   mixpanel_url: System.get_env("MIXPANEL_URL", "https://api-js.mixpanel.com"),
   amplitude_url: System.get_env("AMPLITUDE_URL", "https://api2.amplitude.com/2/httpapi")
 
-#配置 Ueberauth 本地設置
+# Configures Ueberauth local settings
 config :ueberauth, Ueberauth,
   providers: [
     auth0: {
@@ -115,6 +115,6 @@ config :ueberauth, Ueberauth,
 config :hammer,
   backend: {Hammer.Backend.ETS, [expiry_ms: 60_000 * 60 * 4, cleanup_interval_ms: 60_000 * 10]}
 
-# 導入特定於環境的配置。這必須保留在底部
-# 這個文件，所以它會覆蓋上面定義的配置。
+# Import environment specific config. This must remain at the bottom
+# of this file so it overrides the configuration defined above.
 import_config "#{config_env()}.exs"

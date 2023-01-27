@@ -200,7 +200,7 @@ defmodule Indexer.Block.Catchup.BoundIntervalSupervisor do
     new_bound_interval =
       case missing_block_count do
         0 ->
-          Logger.info("索引已經趕上.",
+          Logger.info("Index already caught up.",
             first_block_number: first_block_number,
             last_block_number: last_block_number,
             missing_block_count: 0,

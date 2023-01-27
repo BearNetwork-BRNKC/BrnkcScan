@@ -1,6 +1,6 @@
 import Config
 
-# 在測試期間僅打印警告和錯誤
+# Print only warnings and errors during test
 
 config :logger, :console, level: :warn
 

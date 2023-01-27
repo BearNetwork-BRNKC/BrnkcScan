@@ -1,11 +1,11 @@
 @import "./mixins";
 
-/* Phoenix 快訊 */
+/* Phoenix flash messages */
 .alert:empty {
   display: none;
 }
 
-/* 此文件用於您的主應用程序 css. */
+/* This file is for your main application css. */
 
 // Font Awesome
 $fa-font-path: "~@fortawesome/fontawesome-free/webfonts";

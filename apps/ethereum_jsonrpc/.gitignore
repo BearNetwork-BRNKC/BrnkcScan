@@ -1,24 +1,24 @@
-# Mix 目錄將編譯後的工件寫入其中。
+# The directory Mix will write compiled artifacts to.
 /_build/
 
-# 如果你運行“mix test --cover”，覆蓋資產會在這裡結束。
+# If you run "mix test --cover", coverage assets end up here.
 /cover/
 
-# Mix 目錄將你的依賴源下載到。
+# The directory Mix downloads your dependencies sources to.
 /deps/
 
-# ExDoc 等第三方依賴項輸出生成的文檔。
+# Where 3rd-party dependencies like ExDoc output generated docs.
 /doc/
 
-# 如果您想在本地編輯您的項目部門，請忽略 .fetch 文件。
+# Ignore .fetch files in case you like to edit your project deps locally.
 /.fetch
 
-# 如果 VM 崩潰，它會生成一個轉儲，我們也忽略它。
+# If the VM crashes, it generates a dump, let's ignore it too.
 erl_crash.dump
 
-# 也忽略存檔工件（通過“mix archive.build”構建）。
+# Also ignore archive artifacts (built via "mix archive.build").
 *.ez
 
-# 忽略包 tarball（通過“mix hex.build”構建）。
+# Ignore package tarball (built via "mix hex.build").
 ethereum_jsonrpc-*.tar
 

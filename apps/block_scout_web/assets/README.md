@@ -1,9 +1,9 @@
-# Javascript 結構文件
+# Javascript structure files
 
 ## lib
 
-* 此文件夾用於放置可能跨越多個頁面的“組件”文件。
+* This folder is used to place `component` files, that may span in multiple pages.
 
 ## pages
 
-* 此文件夾用於放置“頁面”特定文件，這些文件不能在其他位置重複使用。
+* This folder is used to place `page` specific files, that won't be reusable in other locations.

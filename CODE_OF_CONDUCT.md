@@ -1,64 +1,69 @@
-# 貢獻者契約行為準則
+# Contributor Covenant Code of Conduct
 
-## 我們的承諾
+## Our Pledge
 
-為了營造一個開放和熱情的環境，我們作為
-貢獻者和維護者承諾參與我們的項目，並且
-我們的社區為每個人提供無騷擾的體驗，無論年齡、身體如何
-體型、殘疾、種族、性別認同和表達、經驗水平、
-教育、社會經濟地位、國籍、外貌、種族、
-宗教，或性認同和性取向。
+In the interest of fostering an open and welcoming environment, we as
+contributors and maintainers pledge to making participation in our project and
+our community a harassment-free experience for everyone, regardless of age, body
+size, disability, ethnicity, gender identity and expression, level of experience,
+education, socio-economic status, nationality, personal appearance, race,
+religion, or sexual identity and orientation.
 
-## 我們的標準
+## Our Standards
 
-有助於創造積極環境的行為示例
-包括：
+Examples of behavior that contributes to creating a positive environment
+include:
 
-*使用歡迎和包容的語言
-*尊重不同的觀點和經驗
-*優雅地接受建設性的批評
-*專注於對社區最有利的事情
-*對其他社區成員表示同情
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for the community
+* Showing empathy towards other community members
 
-參與者不可接受的行為示例包括：
+Examples of unacceptable behavior by participants include:
 
-*使用色情語言或圖像以及不受歡迎的性關注或進步
-*拖釣、侮辱/貶損評論以及人身或政治攻擊
-*公開或私下的騷擾
-*發布他人的私人信息，如實物或電子地址，未經明確許可
-*其他可以合理地認為不適當的行為專業設置
+* The use of sexualized language or imagery and unwelcome sexual attention or
+  advances
+* Trolling, insulting/derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or electronic
+  address, without explicit permission
+* Other conduct which could reasonably be considered inappropriate in a
+  professional setting
 
-## 我們的責任
+## Our Responsibilities
 
-項目維護者負責闡明可接受的標準
-行為，並期望採取適當和公平的糾正措施
-對任何不可接受的行為的回應。
+Project maintainers are responsible for clarifying the standards of acceptable
+behavior and are expected to take appropriate and fair corrective action in
+response to any instances of unacceptable behavior.
 
-項目維護者有權利和責任刪除、編輯或
-拒絕評論、提交、代碼、wiki 編輯、問題和其他貢獻
-不符合本行為準則，或暫時禁止或
-他們認為不適當的其他行為的永久性貢獻者，
-威脅的、冒犯的或有害的。
+Project maintainers have the right and responsibility to remove, edit, or
+reject comments, commits, code, wiki edits, issues, and other contributions
+that are not aligned to this Code of Conduct, or to ban temporarily or
+permanently any contributor for other behaviors that they deem inappropriate,
+threatening, offensive, or harmful.
 
-##  範圍
+## Scope
 
-本行為準則適用於項目空間和公共空間
-當個人代表項目或其社區時。示例
-代表項目或社區包括使用官方項目電子郵件
-地址，通過官方社交媒體帳戶發布，或作為指定
-線上或線下活動的代表。一個項目的表示可能是
-由項目維護者進一步定義和闡明。
+This Code of Conduct applies both within project spaces and in public spaces
+when an individual is representing the project or its community. Examples of
+representing a project or community include using an official project e-mail
+address, posting via an official social media account, or acting as an appointed
+representative at an online or offline event. Representation of a project may be
+further defined and clarified by project maintainers.
 
-## 執法
+## Enforcement
 
-可能會出現辱罵、騷擾或其他不可接受的行為
-通過聯繫項目團隊報告 andrew@poa.network。
-全部投訴將得到審查和調查，並會作出回應
-被認為是必要和適當的情況。
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported by contacting the project team at andrew@poa.network. All
+complaints will be reviewed and investigated and will result in a response that
+is deemed necessary and appropriate to the circumstances. The project team is
+obligated to maintain confidentiality with regard to the reporter of an incident.
+Further details of specific enforcement policies may be posted separately.
 
-項目團隊是有義務為事件的報告者保密。
-具體執行政策的更多細節可能會單獨發布。
-不遵守或不執行行為準則的項目維護者信仰可能會面臨其他人確定的暫時或永久的影響項目領導成員。
+Project maintainers who do not follow or enforce the Code of Conduct in good
+faith may face temporary or permanent repercussions as determined by other
+members of the project's leadership.
 
 ## Attribution
 

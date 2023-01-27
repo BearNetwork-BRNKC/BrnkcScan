@@ -30,22 +30,22 @@ indexer_empty_blocks_sanitizer_batch_size =
 config :indexer, Indexer.Fetcher.EmptyBlocksSanitizer, batch_size: indexer_empty_blocks_sanitizer_batch_size
 
 config :block_scout_web, :footer,
-  chat_link: System.get_env("FOOTER_CHAT_LINK", "https://line.me/ti/g2/WcrbDoNbkvI4V_guU4CPjNKGSx7uDZPziHcj7Q?utm_source=invitation&utm_medium=link_copy&utm_campaign=default"),
-  forum_link: System.get_env("FOOTER_FORUM_LINK", "https://www.facebook.com/bearnetwork.net"),
-  github_link: System.get_env("FOOTER_GITHUB_LINK", "https://github.com/BearNetwork-BRNKC"),
+  chat_link: System.get_env("FOOTER_CHAT_LINK", "https://discord.gg/blockscout"),
+  forum_link: System.get_env("FOOTER_FORUM_LINK", "https://forum.poa.network/c/blockscout"),
+  github_link: System.get_env("FOOTER_GITHUB_LINK", "https://github.com/blockscout/blockscout"),
   enable_forum_link: System.get_env("FOOTER_ENABLE_FORUM_LINK", "false") == "true"
 
 ######################
-### BlockScout 網站 ###
+### BlockScout Web ###
 ######################
 
-# 配置 Ueberauth 的 Auth0 身份驗證提供程序
+# Configures Ueberauth's Auth0 auth provider
 config :ueberauth, Ueberauth.Strategy.Auth0.OAuth,
   domain: System.get_env("ACCOUNT_AUTH0_DOMAIN"),
   client_id: System.get_env("ACCOUNT_AUTH0_CLIENT_ID"),
   client_secret: System.get_env("ACCOUNT_AUTH0_CLIENT_SECRET")
 
-# 配置 Ueberauth 本地設置
+# Configures Ueberauth local settings
 config :ueberauth, Ueberauth,
   logout_url: System.get_env("ACCOUNT_AUTH0_LOGOUT_URL"),
   logout_return_to_url: System.get_env("ACCOUNT_AUTH0_LOGOUT_RETURN_URL")
@@ -100,7 +100,8 @@ config :block_scout_web,
   new_tags: System.get_env("NEW_TAGS"),
   chain_id: System.get_env("CHAIN_ID"),
   json_rpc: System.get_env("JSON_RPC"),
-  verification_max_libraries: verification_max_libraries
+  verification_max_libraries: verification_max_libraries,
+  permanent_dark_mode_enabled: System.get_env("PERMANENT_DARK_MODE_ENABLED", "false") == "true"
 
 default_api_rate_limit = 50
 default_api_rate_limit_str = Integer.to_string(default_api_rate_limit)
@@ -146,7 +147,7 @@ config :block_scout_web, BlockScoutWeb.Endpoint,
     host: System.get_env("BLOCKSCOUT_HOST") || "localhost"
   ]
 
-# 配置歷史
+# Configures History
 price_chart_config =
   if System.get_env("SHOW_PRICE_CHART", "false") != "false" do
     %{market: [:price, :market_cap]}
@@ -180,7 +181,10 @@ config :ethereum_jsonrpc,
   disable_archive_balances?: System.get_env("ETHEREUM_JSONRPC_DISABLE_ARCHIVE_BALANCES", "false") == "true"
 
 debug_trace_transaction_timeout = System.get_env("ETHEREUM_JSONRPC_DEBUG_TRACE_TRANSACTION_TIMEOUT", "5s")
-config :ethereum_jsonrpc, EthereumJSONRPC.Geth, debug_trace_transaction_timeout: debug_trace_transaction_timeout
+
+config :ethereum_jsonrpc, EthereumJSONRPC.Geth,
+  debug_trace_transaction_timeout: debug_trace_transaction_timeout,
+  tracer: System.get_env("INDEXER_INTERNAL_TRANSACTIONS_TRACER_TYPE", "call_tracer")
 
 config :ethereum_jsonrpc, EthereumJSONRPC.PendingTransaction,
   type: System.get_env("ETHEREUM_JSONRPC_PENDING_TRANSACTIONS_TYPE", "default")
@@ -218,10 +222,6 @@ config :explorer,
   implementation_data_fetching_timeout: :timer.seconds(2),
   restricted_list: System.get_env("RESTRICTED_LIST", nil),
   restricted_list_key: System.get_env("RESTRICTED_LIST_KEY", nil)
-
-config :explorer, Explorer.Visualize.Sol2uml,
-  service_url: System.get_env("VISUALIZE_SOL2UML_SERVICE_URL"),
-  enabled: System.get_env("VISUALIZE_SOL2UML_ENABLED") == "true"
 
 config :explorer, Explorer.Chain.Events.Listener,
   enabled:
@@ -353,6 +353,14 @@ config :explorer, Explorer.ThirdPartyIntegrations.Sourcify,
 config :explorer, Explorer.SmartContract.RustVerifierInterface,
   service_url: System.get_env("RUST_VERIFICATION_SERVICE_URL"),
   enabled: System.get_env("ENABLE_RUST_VERIFICATION_SERVICE") == "true"
+
+config :explorer, Explorer.Visualize.Sol2uml,
+  service_url: System.get_env("VISUALIZE_SOL2UML_SERVICE_URL"),
+  enabled: System.get_env("VISUALIZE_SOL2UML_ENABLED") == "true"
+
+config :explorer, Explorer.SmartContract.SigProviderInterface,
+  service_url: System.get_env("SIG_PROVIDER_SERVICE_URL"),
+  enabled: System.get_env("SIG_PROVIDER_ENABLED") == "true"
 
 config :explorer, Explorer.ThirdPartyIntegrations.AirTable,
   table_url: System.get_env("ACCOUNT_PUBLIC_TAGS_AIRTABLE_URL"),

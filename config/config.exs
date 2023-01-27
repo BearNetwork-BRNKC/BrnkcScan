@@ -1,12 +1,12 @@
-# 這個文件負責配置你的應用
-# 及其在 Config 模塊的幫助下的依賴關係。
+# This file is responsible for configuring your application
+# and its dependencies with the aid of the Config module.
 import Config
 
-# 默認情況下，傘式項目以及每個孩子
-# 應用程序需要這個配置文件，確保
-# 他們都使用相同的配置。雖然可以
-# 在這裡配置所有應用程序，我們更喜歡委託
-# 回到每個應用程序以進行組織。
+# By default, the umbrella project as well as each child
+# application will require this configuration file, ensuring
+# they all use the same configuration. While one could
+# configure all applications here, we prefer to delegate
+# back to each application for organization purposes.
 for config <- "../apps/*/config/config.exs" |> Path.expand(__DIR__) |> Path.wildcard() do
   import_config config
 end
@@ -40,14 +40,14 @@ config :logger,
   ]
 
 config :logger, :console,
-  # 對所有記錄器使用相同的格式，即使 `:error` 後端的級別應該永遠是 `:error`
+  # Use same format for all loggers, even though the level should only ever be `:error` for `:error` backend
   format: "$dateT$time $metadata[$level] $message\n",
   metadata:
     ~w(application fetcher request_id first_block_number last_block_number missing_block_range_count missing_block_count
        block_number step count error_count shrunk import_id transaction_id)a
 
 config :logger, :ecto,
-  # 對所有記錄器使用相同的格式，即使 `:error` 後端的級別應該永遠是 `:error`
+  # Use same format for all loggers, even though the level should only ever be `:error` for `:error` backend
   format: "$dateT$time $metadata[$level] $message\n",
   metadata:
     ~w(application fetcher request_id first_block_number last_block_number missing_block_range_count missing_block_count
@@ -55,13 +55,13 @@ config :logger, :ecto,
   metadata_filter: [application: :ecto]
 
 config :logger, :error,
-  # 對所有記錄器使用相同的格式，即使 `:error` 後端的級別應該永遠是 `:error`
+  # Use same format for all loggers, even though the level should only ever be `:error` for `:error` backend
   format: "$dateT$time $metadata[$level] $message\n",
   level: :error,
   metadata:
     ~w(application fetcher request_id first_block_number last_block_number missing_block_range_count missing_block_count
        block_number step count error_count shrunk import_id transaction_id)a
 
-# 導入特定於環境的配置。這必須保留在底部
-# 這個文件，所以它會覆蓋上面定義的配置。
+# Import environment specific config. This must remain at the bottom
+# of this file so it overrides the configuration defined above.
 import_config "#{config_env()}.exs"

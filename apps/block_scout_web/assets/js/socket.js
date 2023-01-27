@@ -1,6 +1,7 @@
 import { Socket } from 'phoenix'
 import { locale } from './locale'
 
+// @ts-ignore
 let websocketRootUrl = process.env.SOCKET_ROOT
 if (!websocketRootUrl) {
   websocketRootUrl = ''
@@ -15,17 +16,18 @@ socket.connect()
 export default socket
 
 /**
-*在給定主題的頻道中訂閱客戶端。
+ * Subscribes the client in the channel given the topic.
  *
- *此函數將在創建頻道之前檢查頻道是否已經存在。這很有用，因為
- *當客戶端試圖創建重複訂閱時，服務器將關閉
- *現有訂閱並創建一個新訂閱。
+ * This function will check if already exist a channel before creating one. This is useful because
+ * when the client is attempting to create a duplicated subscription, the server will close the
+ * existing subscription and create a new one.
  *
- *在 https://hexdocs.pm/phoenix/js/#phoenix 中查看更多相關信息。
+ * See more about it in https://hexdocs.pm/phoenix/js/#phoenix.
  *
- *返回一個 Channel 實例。
+ * Returns a Channel instance.
  */
 export function subscribeChannel (topic) {
+  // @ts-ignore
   const channel = socket.channels.find(channel => channel.topic === topic)
 
   if (channel) {

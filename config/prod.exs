@@ -1,6 +1,6 @@
 import Config
 
-# 不要在生產中打印調試消息
+# Do not print debug messages in production
 
 config :logger, :console, level: :info
 

@@ -14,7 +14,7 @@ config :block_scout_web, BlockScoutWeb.Endpoint,
   url: [
     scheme: System.get_env("BLOCKSCOUT_PROTOCOL") || "https",
     port: System.get_env("PORT"),
-    host: System.get_env("BLOCKSCOUT_HOST") || "brnkscan.bearnetwork.net"
+    host: System.get_env("BLOCKSCOUT_HOST") || "localhost"
   ]
 
 ########################
@@ -30,7 +30,7 @@ pool_size =
     do: ConfigHelper.get_db_pool_size("50"),
     else: ConfigHelper.get_db_pool_size("40")
 
-# 配置數據庫
+# Configures the database
 config :explorer, Explorer.Repo,
   url: System.get_env("DATABASE_URL"),
   pool_size: pool_size,
@@ -41,13 +41,13 @@ pool_size_api =
     do: ConfigHelper.get_api_db_pool_size("50"),
     else: ConfigHelper.get_api_db_pool_size("10")
 
-# 配置API數據庫
+# Configures API the database
 config :explorer, Explorer.Repo.Replica1,
   url: ConfigHelper.get_api_db_url(),
   pool_size: pool_size_api,
   ssl: ConfigHelper.ssl_enabled?()
 
-# 配置賬戶數據庫
+# Configures Account database
 config :explorer, Explorer.Repo.Account,
   url: ConfigHelper.get_account_db_url(),
   pool_size: ConfigHelper.get_account_db_pool_size("50"),

@@ -1,6 +1,6 @@
-# BlockScout 網站
+# BlockScout Web
 
-這是一個用於從網絡瀏覽器檢查和分析 POA 網絡區塊鏈的工具。
+This is a tool for inspecting and analyzing the POA Network blockchain from a web browser.
 
 ## Machine Requirements
 
@@ -8,36 +8,36 @@
 * Elixir 1.9+
 * Postgres 10.3
 
-## 所需帳戶
+## Required Accounts
 
 * Github for code storage
 
-## 安裝說明
+## Setup Instructions
 
-### 發展
+### Development
 
-要在本地啟動和運行 BlockScout Web 界面：
+To get BlockScout Web interface up and running locally:
 
-*設置`../explorer`
-*使用 `$ cd assets && npm install && cd ..` 安裝 Node.js 依賴項
-*使用`$ mix phx.server`啟動Phoenix（可以從這個目錄或項目根目錄運行：推薦項目根目錄。）
+* Setup `../explorer`
+* Install Node.js dependencies with `$ cd assets && npm install && cd ..`
+* Start Phoenix with `$ mix phx.server` (This can be run from this directory or the project root: the project root is recommended.)
 
-現在您可以從瀏覽器訪問 [`localhost:4000`](http://localhost:4000)。
+Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
-您還可以運行 IEx（Interactive Elixir）：`$ iex -S mix phx.server`（可以從該目錄或項目根目錄運行：推薦項目根目錄。）
+You can also run IEx (Interactive Elixir): `$ iex -S mix phx.server` (This can be run from this directory or the project root: the project root is recommended.)
 
 ### Testing
 
-*構建資產：`cd assets && npm run build`
-*格式化 Elixir 代碼：`mix format`
-*Lint Elixir 代碼：`mix credo --strict`
-*運行透析器：`mix dialyzer --halt-exit-status`
-*檢查 Elixir 代碼是否存在漏洞：`mix sobelow --config`
-*更新翻譯模板和翻譯並檢查沒有未提交的更改：`mix gettext.extract --merge`
-*Lint JavaScript 代碼：`cd assets && npm run eslint`
+* Build the assets: `cd assets && npm run build`
+* Format the Elixir code: `mix format`
+* Lint the Elixir code: `mix credo --strict`
+* Run the dialyzer: `mix dialyzer --halt-exit-status`
+* Check the Elixir code for vulnerabilities: `mix sobelow --config`
+* Update translations templates and translations and check there are no uncommitted changes: `mix gettext.extract --merge`
+* Lint the JavaScript code: `cd assets && npm run eslint`
 
-## 國際化
+## Internationalization
 
-該應用程序目前已國際化。它僅本地化為美國英語。
+The app is currently internationalized. It is only localized to U.S. English.
 
-要翻譯新字符串，請運行“$ mix gettext.extract --merge”並在“priv/gettext/en/LC_MESSAGES/default.po”中編輯新字符串。
+To translate new strings, run `$ mix gettext.extract --merge` and edit the new strings in `priv/gettext/en/LC_MESSAGES/default.po`.

@@ -16,7 +16,7 @@ mix deps.get
 
 mix compile
 
-# 安裝節點依賴
+# Install node dependencies
 pushd apps/explorer || exit 1
 npm install
 popd

@@ -1,50 +1,50 @@
-## 這個文件是一個 PO 模板文件。
+## This file is a PO Template file.
 ##
-## 這裡的 `msgid` 通常是從源代碼中提取的。
-## 只有在動態的情況下才手動添加新的翻譯
-## 無法靜態提取的翻譯。
+## `msgid`s here are often extracted from source code.
+## Add new translations manually only if they're dynamic
+## translations that can't be statically extracted.
 ##
-## 運行 `mix gettext.extract` 將這個文件帶到
-## 日期。將 `msgstr` 留空，因為在這裡將它們更改為 no
-## 效果：改為在 PO (`.po`) 文件中編輯它們。
-## 來自 Ecto.Changeset.cast/4
+## Run `mix gettext.extract` to bring this file up to
+## date. Leave `msgstr`s empty as changing them here as no
+## effect: edit them in PO (`.po`) files instead.
+## From Ecto.Changeset.cast/4
 msgid "can't be blank"
-msgstr "不能為空"
+msgstr ""
 
 ## From Ecto.Changeset.unique_constraint/3
 msgid "has already been taken"
-msgstr "已经被采取"
+msgstr ""
 
 ## From Ecto.Changeset.put_change/3
 msgid "is invalid"
-msgstr "無效的"
+msgstr ""
 
 ## From Ecto.Changeset.validate_acceptance/3
 msgid "must be accepted"
-msgstr "必須接受"
+msgstr ""
 
 ## From Ecto.Changeset.validate_format/3
 msgid "has invalid format"
-msgstr "格式無效"
+msgstr ""
 
 ## From Ecto.Changeset.validate_subset/3
 msgid "has an invalid entry"
-msgstr "有一個無效條目"
+msgstr ""
 
 ## From Ecto.Changeset.validate_exclusion/3
 msgid "is reserved"
-msgstr "被預定了"
+msgstr ""
 
 ## From Ecto.Changeset.validate_confirmation/3
 msgid "does not match confirmation"
-msgstr "不匹配確認"
+msgstr ""
 
 ## From Ecto.Changeset.no_assoc_constraint/3
 msgid "is still associated with this entry"
-msgstr "仍與此條目關聯"
+msgstr ""
 
 msgid "are still associated with this entry"
-msgstr "仍與此條目關聯"
+msgstr ""
 
 ## From Ecto.Changeset.validate_length/3
 msgid "should be %{count} character(s)"
