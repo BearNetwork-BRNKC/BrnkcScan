@@ -260,15 +260,15 @@ $transition-cont: all 0.4s ease-in-out !default;
 
 // Fonts
 //
-// Font, line-height, and color for body text, headings, and more.
+// 正文、標題等的字體、行高和顏色。
 
-// stylelint-disable value-keyword-case
-$font-family: Nunito, "微軟正黑體", "Microsoft JhengHei", "Segoe UI Semibold", "Segoe UI", "Lucida Grande", Verdana, Arial, Helvetica, sans-serif,
+// stylelint 禁用值關鍵字大小寫
+$font-family: "Microsoft JhengHei", "Segoe UI Semibold", "Segoe UI", "Lucida Grande", Nunito, Verdana, Arial, Helvetica, sans-serif,
   "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 $font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
   "Liberation Mono", "Courier New", monospace !default;
 $font-family-base: $font-family !default;
-// stylelint-enable value-keyword-case
+// stylelint 啟用值關鍵字大小寫
 
 $font-size-base: 1.125rem !default; // Assumes the browser default, typically `16px`
 $font-size-lg: ($font-size-base * 1.25) !default;
