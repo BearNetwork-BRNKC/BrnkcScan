@@ -15,7 +15,7 @@
             <div class="mb-3 row o-flow-x">
               <%= if @public_tags_requests != [] do %>
                 <table class="table mb-3 table-watchlist">
-                  <thead style="font-size: 14px; color: #6c757d" >
+                  <thead style="font-size: 14px; color: #0a0a0a" >
                     <tr>
                       <th scope="col"><%= gettext "Public tag" %></th>
                       <th scope="col"><%= gettext "Smart contract / Address" %></th>
@@ -24,7 +24,7 @@
                       <th scope="col"></th>
                     </tr>
                   </thead>
-                  <tbody style="font-size: 15px; color: #6c757d" >
+                  <tbody style="font-size: 15px; color: #0a0a0a" >
                     <%= Enum.map(@public_tags_requests, fn x ->
                       render("row.html", public_tags_request: x, conn: @conn)
                       end) %>

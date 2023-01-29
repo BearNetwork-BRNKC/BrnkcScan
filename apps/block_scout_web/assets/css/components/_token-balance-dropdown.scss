@@ -34,15 +34,15 @@
 
   .dropdown-search-field {
     height: 50px;
-    border: 1px solid #f5f6fa;
-    background-color: #f5f6fa;
+    border: 1px solid #ffffff;
+    background-color: #ffffff;
     outline: none !important;
     font-size: 14px;
-    color: #828ba0;
+    color: #101010;
     font-weight: 300;
     padding-left: 52px;
     &::placeholder {
-      color: rgba(#828ba0, .5);
+      color: rgba(#101010, .5);
     }
   }
 
@@ -51,7 +51,7 @@
     top: 50%;
     margin-top: -8.5px;
     path {
-      fill: #828ba0;
+      fill: #101010;
     }
   }
 

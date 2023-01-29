@@ -124,7 +124,7 @@ $tile-body-a-color: #5959d8 !default;
 }
 
 .tile-transactions {
-  color: #a3a9b5;
+  color: #0a0a0a;
   font-size: 12px;
   font-weight: 400;
   line-height: 1.2;
@@ -332,7 +332,7 @@ $tile-body-a-color: #5959d8 !default;
 
   /* Progress bar */
   .progress {
-    background-color: #f5f6fa;
+    background-color: #ffffff;
     border-radius: 2px;
     height: 4px;
     margin-top: 8px;
@@ -377,7 +377,7 @@ $tile-body-a-color: #5959d8 !default;
   height: 20px;
   width: 100%;
   border-radius: 4px;
-  background-color: #f5f6fa;
+  background-color: #ffffff;
   overflow: hidden;
   position: relative;
   &:before {
@@ -385,7 +385,7 @@ $tile-body-a-color: #5959d8 !default;
     height: inherit;
     content: '';
     position: absolute;
-    background: linear-gradient(to right, #f5f6fa 2%, #eee 18%, #f5f6fa 33%);
+    background: linear-gradient(to right, #ffffff 2%, #eee 18%, #ffffff 33%);
     animation-duration: 1.7s;
     animation-fill-mode: forwards;
     animation-iteration-count: infinite;
@@ -475,7 +475,7 @@ $tile-body-a-color: #5959d8 !default;
 
 .cube-animation-title {
   font-size: 12px;
-  color: #a3a9b5;
+  color: #0a0a0a;
   position: absolute;
   bottom: 10px;
   left: 50%;

@@ -21,8 +21,8 @@
 
 .logs-search-input, .logs-search-btn, .logs-search-btn-cancel {
 	height: 24px;
-	background-color: #f5f6fa;
-	border: 1px solid #f5f6fa;
+	background-color: #ffffff;
+	border: 1px solid #ffffff;
 	color: #333;
 	border-radius: 2px;
 	outline: none;
@@ -39,14 +39,14 @@
     min-width: 160px;
     font-weight: 300 !important;
     &::placeholder {
-    	color: #a3a9b5;
+    	color: #0a0a0a;
     	font-weight: 300 !important;
     }
 }
 
 .logs-search-btn {
 	margin-left: 6px;
-	color: #a3a9b5;
+	color: #0a0a0a;
 	transition: .1s ease-in;
 	cursor: pointer;
 	&:hover {
@@ -57,7 +57,7 @@
 }
 
 .logs-search-btn-cancel {
-	color: #a3a9b5;
+	color: #0a0a0a;
 	cursor: pointer;
 	transition: .1s ease-in;
 	position: absolute;

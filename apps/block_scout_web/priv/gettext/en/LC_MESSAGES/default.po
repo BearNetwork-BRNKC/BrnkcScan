@@ -2426,7 +2426,7 @@ msgstr "這個0x庫地址。可以在生成的json文件或Truffle輸出中找�
 #: lib/block_scout_web/templates/address_contract_verification_via_multi_part_files/new.html.eex:26
 #, elixir-autogen, elixir-format
 msgid "The EVM version the contract is written for. If the bytecode does not match the version, we try to verify using the latest EVM version."
-msgstr "編寫合約的EVM版本。如果字節碼與版本不匹配，我們嘗試使用最新的EVM版本進行驗證"
+msgstr "調用合約的EVM版本。如果字節碼與版本不匹配，我們嘗試使用最新的EVM版本進行驗證"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:122
 #, elixir-autogen, elixir-format
@@ -3267,21 +3267,21 @@ msgstr "Wei"
 #: lib/block_scout_web/templates/smart_contract/_functions.html.eex:100
 #, elixir-autogen, elixir-format
 msgid "Write"
-msgstr "編寫"
+msgstr "調用"
 
 #: lib/block_scout_web/templates/address/_tabs.html.eex:95
 #: lib/block_scout_web/templates/tokens/overview/_tabs.html.eex:34
 #: lib/block_scout_web/views/address_view.ex:378
 #, elixir-autogen, elixir-format
 msgid "Write Contract"
-msgstr "編寫合同"
+msgstr "調用合同"
 
 #: lib/block_scout_web/templates/address/_tabs.html.eex:102
 #: lib/block_scout_web/templates/tokens/overview/_tabs.html.eex:48
 #: lib/block_scout_web/views/address_view.ex:379
 #, elixir-autogen, elixir-format
 msgid "Write Proxy"
-msgstr "編寫代理"
+msgstr "調用代理"
 
 #: lib/block_scout_web/templates/address_contract_verification_common_fields/_fetch_constructor_args.html.eex:14
 #: lib/block_scout_web/templates/address_contract_verification_common_fields/_include_nightly_builds_field.html.eex:14

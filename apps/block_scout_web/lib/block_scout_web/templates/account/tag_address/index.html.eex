@@ -17,14 +17,14 @@
                 <h2></h2>
               <% else %>
                 <table class="table mb-3 table-watchlist">
-                  <thead style="font-size: 14px; color: #6c757d" >
+                  <thead style="font-size: 14px; color: #0a0a0a" >
                     <tr>
                       <th scope="col"><%= gettext "Name" %></th>
                       <th scope="col"><%= gettext "Address" %></th>
                       <th scope="col"><%= gettext "Action" %></th>
                     </tr>
                   </thead>
-                  <tbody style="font-size: 15px; color: #6c757d" >
+                  <tbody style="font-size: 15px; color: #0a0a0a" >
                     <%= Enum.map(@address_tags, fn at ->
                       render("row.html", address_tag: at, conn: @conn)
                       end) %>

@@ -15,7 +15,7 @@ $gray-100: #f8f9fa !default;
 $gray-200: #e9ecef !default;
 $gray-300: #dee2e6 !default;
 $gray-400: #ced4da !default;
-$gray-500: #828ba0 !default;
+$gray-500: #101010 !default;
 $gray-600: #cdcdcc !default;
 $gray-700: #495057 !default;
 $gray-800: #343a40 !default;
@@ -72,8 +72,8 @@ $colors: map-merge(
 );
 
 $primary: $indigo !default;
-$dark-primary: #9b62ff !default;
-$dark-primary-alternate: #9b62ff !default;
+$dark-primary: #294f6e !default;
+$dark-primary-alternate: #294f6e !default;
 $secondary: #7dd79f !default;
 $dark-secondary: #87e1a9 !default;
 $tertiary: $purple !default;
@@ -270,7 +270,7 @@ $font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
 $font-family-base: $font-family !default;
 // stylelint-enable value-keyword-case
 
-$font-size-base: 1rem !default; // Assumes the browser default, typically `16px`
+$font-size-base: 1.15rem !default; // Assumes the browser default, typically `16px`
 $font-size-lg: ($font-size-base * 1.25) !default;
 $font-size-sm: ($font-size-base * 0.875) !default;
 

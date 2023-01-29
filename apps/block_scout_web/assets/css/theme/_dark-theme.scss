@@ -2,7 +2,7 @@ $body-dark: #1c1d31; // body background
 $dark-bg: #22223a; // hero shade
 $dark-light-bg: #282945; // pills bg shade
 $dark-light: #313355; // tile light top share
-$labels-dark: #8a8dba; // header nav, labels
+$labels-dark: #ffffff; // header nav, labels
 $dark-stakes-banned-background: #3e314c;
 
 // Switcher
@@ -23,7 +23,7 @@ $dark-stakes-banned-background: #3e314c;
 		opacity: .8;
 	}
 	svg path {
-		fill: #828ba0;
+		fill: #101010;
 	}
 	&--dark {
 		svg path {

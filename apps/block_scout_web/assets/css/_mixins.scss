@@ -1,4 +1,4 @@
-@mixin textfield-placeholder($color: #a3a9b5) {
+@mixin textfield-placeholder($color: #0a0a0a) {
   &::-webkit-input-placeholder {
     color: $color;
   }

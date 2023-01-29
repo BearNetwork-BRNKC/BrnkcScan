@@ -23,7 +23,7 @@
             <div class="mb-3 row o-flow-x">
               <%= if @custom_abis != [] do %>
                 <table class="table mb-3 table-watchlist">
-                  <thead style="font-size: 14px; color: #6c757d" >
+                  <thead style="font-size: 14px; color: #0a0a0a" >
                     <tr>
                       <th scope="col"><%= gettext "Name" %></th>
                       <th scope="col"><%= gettext "Contract Address" %></th>
@@ -31,7 +31,7 @@
                       <th scope="col"></th>
                     </tr>
                   </thead>
-                  <tbody style="font-size: 15px; color: #6c757d" >
+                  <tbody style="font-size: 15px; color: #0a0a0a" >
                     <%= Enum.map(@custom_abis, fn key ->
                       render("row.html", custom_abi: key, conn: @conn)
                       end) %>
