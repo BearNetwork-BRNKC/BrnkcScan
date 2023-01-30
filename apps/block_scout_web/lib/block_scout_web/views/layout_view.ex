@@ -21,7 +21,7 @@ defmodule BlockScoutWeb.LayoutView do
 	url: "https://docs.bearnetwork.net"
 	},
 	%{
-	title: "Sourcify合約驗證網",
+	title: "來源化合約驗證網",
 	url: "https://sourcify.dev/#/"
 	},
 	%{

@@ -1630,7 +1630,7 @@ msgstr "日誌"
 #: lib/block_scout_web/templates/layout/_footer.html.eex:52
 #, elixir-autogen, elixir-format
 msgid "Main Networks"
-msgstr "友鏈"
+msgstr "相關資源"
 
 #: lib/block_scout_web/templates/chain/show.html.eex:52
 #: lib/block_scout_web/templates/layout/app.html.eex:46
