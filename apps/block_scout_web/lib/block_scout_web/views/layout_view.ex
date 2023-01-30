@@ -26,22 +26,22 @@ defmodule BlockScoutWeb.LayoutView do
     },
     %{
       title: "BscScan",
-      url: "https://bscscan.com"
+      url: "https://bscscan.com",
       other?: true
     },
     %{
       title: "EtherScan",
-      url: "https://etherscan.io"
+      url: "https://etherscan.io",
       other?: true
     },
     %{
       title: "PolyGonScan",
-      url: "https://polygonscan.com"
+      url: "https://polygonscan.com",
       other?: true
     },
     %{
       title: "POA",
-      url: "https://blockscout.com/poa/core"
+      url: "https://blockscout.com/poa/core",
       other?: true
     },
     %{
@@ -49,14 +49,17 @@ defmodule BlockScoutWeb.LayoutView do
       url: "https://blockscout.com/etc/mainnet",
       other?: true
     },
+    %{
     title: "BSC Testnet",
       url: "https://testnet.bscscan.com",
       test_net?: true
     },
+    %{
     title: "Sepolia",
       url: "https://sepolia.etherscan.io",
       test_net?: true
     },
+    %{
     title: "Goerli",
       url: "https://goerli.etherscan.io",
       test_net?: true
