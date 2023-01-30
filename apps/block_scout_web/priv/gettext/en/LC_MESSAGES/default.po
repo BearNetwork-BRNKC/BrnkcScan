@@ -25,38 +25,38 @@ msgstr "被推薦"
 #: lib/block_scout_web/templates/address/_metatags.html.eex:3
 #, elixir-autogen, elixir-format
 msgid "%{address} - %{subnetwork} Explorer"
-msgstr ""
+msgstr "%{address} - %{subnetwork} Explorer"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:12
 #, elixir-autogen, elixir-format
 msgid "%{block_type} Details"
-msgstr ""
+msgstr "%{block_type} Details"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:55
 #, elixir-autogen, elixir-format
 msgid "%{block_type} Height"
-msgstr ""
+msgstr "%{block_type} Height"
 
 #: lib/block_scout_web/templates/block/index.html.eex:7
 #, elixir-autogen, elixir-format
 msgid "%{block_type}s"
-msgstr ""
+msgstr "%{block_type}s"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:85
 #, elixir-autogen, elixir-format
 msgid "%{count} Transaction"
-msgstr ""
+msgstr "%{count} Transaction"
 
 #: lib/block_scout_web/templates/block/overview.html.eex:87
 #: lib/block_scout_web/templates/chain/_block.html.eex:11
 #, elixir-autogen, elixir-format
 msgid "%{count} Transactions"
-msgstr ""
+msgstr "%{count} Transactions"
 
 #: lib/block_scout_web/templates/chain/_metatags.html.eex:2
 #, elixir-autogen, elixir-format
 msgid "%{subnetwork} %{network} Explorer"
-msgstr ""
+msgstr "%{subnetwork} %{network} Explorer"
 
 #: lib/block_scout_web/templates/layout/_default_title.html.eex:2
 #, elixir-autogen, elixir-format
@@ -66,7 +66,7 @@ msgstr "%{subnetwork} Explorer - BearNetwork"
 #: lib/block_scout_web/views/transaction_view.ex:347
 #, elixir-autogen, elixir-format
 msgid "(Awaiting internal transactions for status)"
-msgstr ""
+msgstr "(Awaiting internal transactions for status)"
 
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:59
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:70
@@ -74,7 +74,7 @@ msgstr ""
 #: lib/block_scout_web/templates/api_docs/_action_tile.html.eex:104
 #, elixir-autogen, elixir-format
 msgid "(query)"
-msgstr ""
+msgstr "(query)"
 
 #: lib/block_scout_web/templates/address_contract_verification_common_fields/_library_first.html.eex:4
 #, elixir-autogen, elixir-format
@@ -612,17 +612,17 @@ msgstr "公司網站"
 #: lib/block_scout_web/templates/verified_contracts/index.html.eex:63
 #, elixir-autogen, elixir-format
 msgid "Compiler"
-msgstr ""
+msgstr "編譯器"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:137
 #, elixir-autogen, elixir-format
 msgid "Compiler Settings"
-msgstr ""
+msgstr "編譯器設置"
 
 #: lib/block_scout_web/templates/address_contract/index.html.eex:66
 #, elixir-autogen, elixir-format
 msgid "Compiler version"
-msgstr ""
+msgstr "編譯器版本"
 
 #: lib/block_scout_web/views/transaction_view.ex:340
 #, elixir-autogen, elixir-format

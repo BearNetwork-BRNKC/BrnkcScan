@@ -8,68 +8,68 @@ defmodule BlockScoutWeb.LayoutView do
   import BlockScoutWeb.AddressView, only: [from_address_hash: 1]
 
   @default_other_networks [
-    %{
-      title: "熊網鏈官網",
-      url: "https://bearnetwork.net"
-    },
-    %{
-      title: "熊網鏈帳本",
-      url: "https://brnkscan.bearnetwork.net"
-    },
-    %{
-      title: "熊網鏈文檔",
-      url: "https://docs.bearnetwork.net"
-    },
-    %{
-      title: "Sourcify合約驗證網",
-      url: "https://sourcify.dev/#/"
-    },
-    %{
-      title: "BscScan",
-      url: "https://bscscan.com",
-      other?: true
-    },
-    %{
-      title: "EtherScan",
-      url: "https://etherscan.io",
-      other?: true
-    },
-    %{
-      title: "PolyGonScan",
-      url: "https://polygonscan.com",
-      other?: true
-    },
-    %{
-      title: "POA",
-      url: "https://blockscout.com/poa/core",
-      other?: true
-    },
-    %{
-      title: "Ethereum Classic",
-      url: "https://blockscout.com/etc/mainnet",
-      other?: true
-    },
-    %{
-    title: "BSC Testnet",
-      url: "https://testnet.bscscan.com",
-      test_net?: true
-    },
-    %{
-    title: "Sepolia",
-      url: "https://sepolia.etherscan.io",
-      test_net?: true
-    },
-    %{
-    title: "Goerli",
-      url: "https://goerli.etherscan.io",
-      test_net?: true
-    },
-    %{
-      title: "Sokol",
-      url: "https://blockscout.com/poa/sokol",
-      test_net?: true
-    }
-  ]
+	%{
+	title: "熊網鏈官網",
+	url: "https://bearnetwork.net"
+	},
+	%{
+	title: "熊網鏈帳本",
+	url: "https://brnkscan.bearnetwork.net"
+	},
+	%{
+	title: "熊網鏈文檔",
+	url: "https://docs.bearnetwork.net"
+	},
+	%{
+	title: "Sourcify合約驗證網",
+	url: "https://sourcify.dev/#/"
+	},
+	%{
+	title: "BSC Testnet",
+	url: "https://testnet.bscscan.com",
+	test_net?: true
+	},
+	%{
+	title: "Sepolia",
+	url: "https://sepolia.etherscan.io",
+	test_net?: true
+	},
+	%{
+	title: "Goerli",
+	url: "https://goerli.etherscan.io",
+	test_net?: true
+	},
+	%{
+	title: "Sokol",
+	url: "https://blockscout.com/poa/sokol",
+	test_net?: true
+	},
+	%{
+	title: "BscScan",
+	url: "https://bscscan.com",
+	other?: true
+	},
+	%{
+	title: "EtherScan",
+	url: "https://etherscan.io",
+	other?: true
+	},
+	%{
+	title: "PolyGonScan",
+	url: "https://polygonscan.com",
+	other?: true
+	},
+	%{
+	title: "POA",
+	url: "https://blockscout.com/poa/core",
+	other?: true
+	},
+	%{
+	title: "Ethereum Classic",
+	url: "https://blockscout.com/etc/mainnet",
+	other?: true
+	}
+]
 
   alias BlockScoutWeb.SocialMedia
 
