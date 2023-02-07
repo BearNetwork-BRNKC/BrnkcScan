@@ -20,12 +20,8 @@ defmodule BlockScoutWeb.LayoutView do
 	title: "熊網鏈文檔",
 	url: "https://docs.bearnetwork.net"
 	},
-	%{
-	title: "來源化合約驗證網",
-	url: "https://sourcify.dev/#/"
-	},
-	%{
-	title: "BSC Testnet",
+  %{
+  title: "BSC Testnet",
 	url: "https://testnet.bscscan.com",
 	test_net?: true
 	},
@@ -58,18 +54,8 @@ defmodule BlockScoutWeb.LayoutView do
 	title: "PolyGonScan",
 	url: "https://polygonscan.com",
 	other?: true
-	},
-	%{
-	title: "POA",
-	url: "https://blockscout.com/poa/core",
-	other?: true
-	},
-	%{
-	title: "Ethereum Classic",
-	url: "https://blockscout.com/etc/mainnet",
-	other?: true
-	}
-]
+  },
+  ]
 
   alias BlockScoutWeb.SocialMedia
 
