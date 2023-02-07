@@ -119,15 +119,15 @@ defmodule BlockScoutWeb.LayoutView do
 
     ### Steps to reproduce
 
-    *Tell us how to reproduce this issue. If possible, push up a branch to your fork with a regression test we can run to reproduce locally.*
+*告訴我們如何重現這個問題。如果可能的話，通過我們可以運行的回歸測試將一個分支推到你的叉子上以在本地重現.*
 
     ### Expected Behaviour
 
-    *Tell us what should happen.*
+    *告訴我們應該發生什麼.*
 
     ### Actual Behaviour
 
-    *Tell us what happens instead.*
+    *告訴我們發生了什麼.*
     """
   end
 
