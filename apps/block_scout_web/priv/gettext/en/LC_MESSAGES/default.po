@@ -2383,7 +2383,7 @@ msgstr "靜態調用"
 #: lib/block_scout_web/templates/transaction/overview.html.eex:110
 #, elixir-autogen, elixir-format
 msgid "Status"
-msgstr "地位"
+msgstr "交易狀態"
 
 #: lib/block_scout_web/templates/account/public_tags_request/index.html.eex:22
 #, elixir-autogen, elixir-format
@@ -3068,7 +3068,7 @@ msgstr "驗證者姓名"
 #: lib/block_scout_web/templates/transaction/overview.html.eex:323
 #, elixir-autogen, elixir-format
 msgid "Value"
-msgstr "價格"
+msgstr "數量"
 
 #: lib/block_scout_web/templates/transaction/overview.html.eex:322
 #, elixir-autogen, elixir-format
