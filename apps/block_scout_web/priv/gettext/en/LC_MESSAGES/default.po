@@ -500,7 +500,7 @@ msgstr "具有內部交易索引的區塊"
 #: lib/block_scout_web/templates/layout/_footer.html.eex:22
 #, elixir-autogen, elixir-format
 msgid "Blockscout is a tool for inspecting and analyzing EVM based blockchains. Blockchain explorer for Ethereum Networks."
-msgstr "BrnkScan是一種用於檢查和分析基於EVM的區塊鏈的工具。"
+msgstr "BrnkScan只針對熊網鏈上各種交易,合約,事務操作等即時查詢,並可在熊網鏈上佈署智能合約之後,進行驗證智能合約"
 
 #: lib/block_scout_web/templates/transaction_state/_state_change.html.eex:9
 #, elixir-autogen, elixir-format
