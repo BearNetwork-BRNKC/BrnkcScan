@@ -13,8 +13,12 @@ defmodule BlockScoutWeb.LayoutView do
 	url: "https://bearnetwork.net"
 	},
 	%{
-	title: "熊網鏈帳本",
-	url: "https://brnkscan.bearnetwork.net"
+	title: "熊網鏈測試網",
+	url: "https://brnktest-scan.bearnetwork.net"
+	},
+	%{
+	title: "熊網鏈水龍頭",
+	url: "https://faucet.bearnetwork.net"
 	},
 	%{
 	title: "熊網鏈文檔",
