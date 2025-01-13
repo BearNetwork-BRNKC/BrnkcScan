@@ -1,0 +1,1593 @@
+2025-01-08T06:51:39.967 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T06:52:08.475 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T06:54:30.633 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T06:56:58.672 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T06:57:55.801 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T07:09:37.343 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T07:24:04.838 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T07:30:21.340 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T07:33:17.264 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T07:38:49.740 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T07:45:51.753 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T07:48:12.415 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T07:48:41.364 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T08:01:03.796 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T08:05:26.702 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T08:12:13.153 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T08:16:06.064 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T08:21:04.850 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T08:22:45.142 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T08:23:19.176 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T08:25:33.861 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T08:34:38.059 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T08:36:20.893 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T08:38:11.203 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T08:38:46.100 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T08:44:47.334 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T08:45:57.039 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T08:49:39.748 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T08:53:22.851 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T08:57:25.892 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T08:58:01.965 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T09:12:28.299 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T09:13:40.877 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T09:14:17.412 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T09:21:00.855 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T09:21:47.800 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T09:23:00.817 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T09:35:28.135 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T09:48:04.707 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T10:01:12.007 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T10:09:04.817 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T10:16:25.669 application=indexer fetcher=pending_transaction [error] {:bad_response, "http://host.docker.internal:8545/"}
+2025-01-08T10:53:12.295 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T10:53:12.600 application=indexer fetcher=empty_blocks_to_refetch [info] Batch of empty blocks is sanitized
+2025-01-08T10:53:22.601 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T10:53:41.713 application=indexer fetcher=block_catchup first_block_number=6304749 last_block_number=6304740 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T10:53:41.815 application=indexer fetcher=block_catchup first_block_number=6304779 last_block_number=6304770 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T10:53:41.890 application=indexer fetcher=block_catchup first_block_number=6304799 last_block_number=6304790 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T10:53:41.962 application=indexer fetcher=block_catchup first_block_number=6304789 last_block_number=6304780 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T10:56:02.985 application=indexer fetcher=empty_blocks_to_refetch [info] Batch of empty blocks is sanitized
+2025-01-08T10:56:12.986 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T10:56:20.952 application=indexer fetcher=block_catchup first_block_number=6298139 last_block_number=6298130 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T10:58:05.750 application=indexer fetcher=block_catchup first_block_number=6293619 last_block_number=6293610 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T11:00:41.837 application=indexer fetcher=block_catchup first_block_number=6280019 last_block_number=6280010 step=import [error] :timeout. Retrying.
+2025-01-08T11:00:41.876 application=indexer fetcher=block_catchup first_block_number=6280009 last_block_number=6280000 step=import [error] :timeout. Retrying.
+2025-01-08T11:00:41.901 application=indexer fetcher=block_catchup first_block_number=6280059 last_block_number=6280050 [error] ** (Postgrex.Error) FATAL 57P01 (admin_shutdown) terminating connection due to administrator command
+    (db_connection 2.4.3) lib/db_connection.ex:953: DBConnection.transaction/3
+    (ecto 3.9.4) lib/ecto/repo/transaction.ex:18: Ecto.Repo.Transaction.transaction/4
+    (stdlib 3.17) timer.erl:197: :timer.tc/3
+    (explorer 5.0.0) lib/explorer/repo.ex:37: anonymous fn/2 in Explorer.Repo.logged_transaction/2
+    (explorer 5.0.0) lib/explorer/logger.ex:14: Explorer.Logger.metadata/2
+    (explorer 5.0.0) lib/explorer/chain/import.ex:334: anonymous fn/3 in Explorer.Chain.Import.import_transactions/2
+    (elixir 1.13.1) lib/enum.ex:4475: Enumerable.List.reduce/3
+    (elixir 1.13.1) lib/enum.ex:2442: Enum.reduce_while/3
+
+
+Retrying.
+2025-01-08T11:00:41.907 application=indexer fetcher=block_catchup first_block_number=6280049 last_block_number=6280040 step=import [error] :timeout. Retrying.
+2025-01-08T11:00:41.918 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:41.964 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:41.988 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:41.988 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:41.989 application=indexer fetcher=block_catchup first_block_number=6280079 last_block_number=6280070 [error] ** (Postgrex.Error) FATAL 57P01 (admin_shutdown) terminating connection due to administrator command
+    (db_connection 2.4.3) lib/db_connection.ex:953: DBConnection.transaction/3
+    (ecto 3.9.4) lib/ecto/repo/transaction.ex:18: Ecto.Repo.Transaction.transaction/4
+    (stdlib 3.17) timer.erl:197: :timer.tc/3
+    (explorer 5.0.0) lib/explorer/repo.ex:37: anonymous fn/2 in Explorer.Repo.logged_transaction/2
+    (explorer 5.0.0) lib/explorer/logger.ex:14: Explorer.Logger.metadata/2
+    (explorer 5.0.0) lib/explorer/chain/import.ex:334: anonymous fn/3 in Explorer.Chain.Import.import_transactions/2
+    (elixir 1.13.1) lib/enum.ex:4475: Enumerable.List.reduce/3
+    (elixir 1.13.1) lib/enum.ex:2442: Enum.reduce_while/3
+
+
+Retrying.
+2025-01-08T11:00:41.991 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:41.995 application=indexer fetcher=block_catchup first_block_number=6280069 last_block_number=6280060 step=import [error] :timeout. Retrying.
+2025-01-08T11:00:41.996 application=indexer fetcher=block_catchup first_block_number=6280029 last_block_number=6280020 step=import [error] :timeout. Retrying.
+2025-01-08T11:00:42.017 application=indexer fetcher=block_catchup first_block_number=6280039 last_block_number=6280030 step=import [error] :timeout. Retrying.
+2025-01-08T11:00:42.018 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.018 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.028 application=indexer fetcher=block_catchup first_block_number=6279999 last_block_number=6279990 [error] ** (DBConnection.ConnectionError) tcp recv (idle): closed
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:42.051 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.052 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.084 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.084 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.085 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.089 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.090 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.115 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.116 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.117 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.139 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.139 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.140 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.142 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.167 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.168 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.169 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.171 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.172 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.201 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.202 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.202 application=indexer fetcher=block_catchup first_block_number=6279989 last_block_number=6279980 [error] ** (DBConnection.ConnectionError) tcp recv (idle): closed
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:42.202 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.203 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.228 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.230 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.231 application=indexer fetcher=block_catchup first_block_number=6279979 last_block_number=6279970 [error] ** (DBConnection.ConnectionError) tcp recv (idle): closed
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:42.232 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.261 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.262 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.262 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.267 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.289 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.290 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.290 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.296 application=indexer fetcher=block_catchup first_block_number=6279959 last_block_number=6279950 [error] ** (DBConnection.ConnectionError) tcp recv (idle): closed
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:42.296 application=indexer fetcher=block_catchup first_block_number=6279969 last_block_number=6279960 [error] ** (DBConnection.ConnectionError) tcp recv (idle): closed
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:42.310 application=indexer fetcher=block_catchup first_block_number=6279949 last_block_number=6279940 [error] ** (DBConnection.ConnectionError) tcp recv (idle): closed
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:42.317 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.337 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.337 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.339 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.340 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.341 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.366 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.366 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.368 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.369 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.391 application=indexer fetcher=block_catchup first_block_number=6279909 last_block_number=6279900 [error] ** (DBConnection.ConnectionError) tcp recv (idle): closed
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:42.394 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "tcp recv (idle): closed", reason: :error, severity: :error}
+2025-01-08T11:00:42.395 application=indexer fetcher=block_catchup first_block_number=6279939 last_block_number=6279930 [error] ** (DBConnection.ConnectionError) tcp recv (idle): closed
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:42.396 application=indexer fetcher=block_catchup first_block_number=6279929 last_block_number=6279920 [error] ** (DBConnection.ConnectionError) tcp recv (idle): closed
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:42.397 application=indexer fetcher=block_catchup first_block_number=6279919 last_block_number=6279910 [error] ** (DBConnection.ConnectionError) tcp recv (idle): closed
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:44.395 application=indexer fetcher=block_catchup first_block_number=6279829 last_block_number=6279820 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1607ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:44.395 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "connection not available and request was dropped from queue after 2000ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:\n\n  1. Ensuring your database is available and that you can connect to it\n  2. Tracking down slow queries and making sure they are running fast enough\n  3. Increasing the pool_size (although this increases resource consumption)\n  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval\n\nSee DBConnection.start_link/2 for more information\n", reason: :queue_timeout, severity: :error}
+2025-01-08T11:00:44.395 application=indexer fetcher=block_catchup first_block_number=6279869 last_block_number=6279860 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1730ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:44.395 application=indexer fetcher=block_catchup first_block_number=6279889 last_block_number=6279880 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1822ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:44.395 application=indexer fetcher=block_catchup first_block_number=6279899 last_block_number=6279890 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1987ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:44.396 application=indexer fetcher=block_catchup first_block_number=6279849 last_block_number=6279840 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1712ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:44.396 application=indexer fetcher=block_catchup first_block_number=6279839 last_block_number=6279830 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1606ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:44.396 application=indexer fetcher=block_catchup first_block_number=6279859 last_block_number=6279850 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1728ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:44.396 application=indexer fetcher=block_catchup first_block_number=6279879 last_block_number=6279870 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1782ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:44.396 application=indexer fetcher=block_catchup first_block_number=6279809 last_block_number=6279800 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1600ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:44.396 application=indexer fetcher=block_catchup first_block_number=6279819 last_block_number=6279810 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1599ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:46.394 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "connection not available and request was dropped from queue after 1998ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:\n\n  1. Ensuring your database is available and that you can connect to it\n  2. Tracking down slow queries and making sure they are running fast enough\n  3. Increasing the pool_size (although this increases resource consumption)\n  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval\n\nSee DBConnection.start_link/2 for more information\n", reason: :queue_timeout, severity: :error}
+2025-01-08T11:00:46.395 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "connection not available and request was dropped from queue after 1948ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:\n\n  1. Ensuring your database is available and that you can connect to it\n  2. Tracking down slow queries and making sure they are running fast enough\n  3. Increasing the pool_size (although this increases resource consumption)\n  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval\n\nSee DBConnection.start_link/2 for more information\n", reason: :queue_timeout, severity: :error}
+2025-01-08T11:00:46.395 application=indexer fetcher=block_catchup first_block_number=6279769 last_block_number=6279760 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1625ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:46.395 application=indexer fetcher=block_catchup first_block_number=6279709 last_block_number=6279700 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1627ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:46.396 application=indexer fetcher=block_catchup first_block_number=6279749 last_block_number=6279740 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1631ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:46.396 application=indexer fetcher=block_catchup first_block_number=6279759 last_block_number=6279750 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1628ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:46.396 application=indexer fetcher=block_catchup first_block_number=6279729 last_block_number=6279720 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1638ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:46.396 application=indexer fetcher=block_catchup first_block_number=6279739 last_block_number=6279730 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1629ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:46.396 application=indexer fetcher=block_catchup first_block_number=6279799 last_block_number=6279790 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1621ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:46.396 application=indexer fetcher=block_catchup first_block_number=6279789 last_block_number=6279780 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1631ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:46.396 application=indexer fetcher=block_catchup first_block_number=6279719 last_block_number=6279710 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1626ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:46.398 application=indexer fetcher=block_catchup first_block_number=6279779 last_block_number=6279770 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1625ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:48.395 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "connection not available and request was dropped from queue after 1998ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:\n\n  1. Ensuring your database is available and that you can connect to it\n  2. Tracking down slow queries and making sure they are running fast enough\n  3. Increasing the pool_size (although this increases resource consumption)\n  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval\n\nSee DBConnection.start_link/2 for more information\n", reason: :queue_timeout, severity: :error}
+2025-01-08T11:00:48.395 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "connection not available and request was dropped from queue after 1998ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:\n\n  1. Ensuring your database is available and that you can connect to it\n  2. Tracking down slow queries and making sure they are running fast enough\n  3. Increasing the pool_size (although this increases resource consumption)\n  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval\n\nSee DBConnection.start_link/2 for more information\n", reason: :queue_timeout, severity: :error}
+2025-01-08T11:00:48.395 application=indexer fetcher=block_catchup first_block_number=6279649 last_block_number=6279640 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1625ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:48.395 application=indexer fetcher=block_catchup first_block_number=6279669 last_block_number=6279660 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1621ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:48.395 application=indexer fetcher=block_catchup first_block_number=6279679 last_block_number=6279670 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1631ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:48.395 application=indexer fetcher=block_catchup first_block_number=6279689 last_block_number=6279680 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1625ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:48.395 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "connection not available and request was dropped from queue after 947ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:\n\n  1. Ensuring your database is available and that you can connect to it\n  2. Tracking down slow queries and making sure they are running fast enough\n  3. Increasing the pool_size (although this increases resource consumption)\n  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval\n\nSee DBConnection.start_link/2 for more information\n", reason: :queue_timeout, severity: :error}
+2025-01-08T11:00:48.396 application=indexer fetcher=block_catchup first_block_number=6279699 last_block_number=6279690 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1621ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:48.396 application=indexer fetcher=block_catchup first_block_number=6279639 last_block_number=6279630 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1632ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:48.396 application=indexer fetcher=block_catchup first_block_number=6279609 last_block_number=6279600 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1625ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:48.396 application=indexer fetcher=block_catchup first_block_number=6279619 last_block_number=6279610 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1627ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:48.396 application=indexer fetcher=block_catchup first_block_number=6279659 last_block_number=6279650 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1624ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:48.396 application=indexer fetcher=block_catchup first_block_number=6279629 last_block_number=6279620 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1635ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:50.394 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "connection not available and request was dropped from queue after 1981ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:\n\n  1. Ensuring your database is available and that you can connect to it\n  2. Tracking down slow queries and making sure they are running fast enough\n  3. Increasing the pool_size (although this increases resource consumption)\n  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval\n\nSee DBConnection.start_link/2 for more information\n", reason: :queue_timeout, severity: :error}
+2025-01-08T11:00:50.395 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "connection not available and request was dropped from queue after 1981ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:\n\n  1. Ensuring your database is available and that you can connect to it\n  2. Tracking down slow queries and making sure they are running fast enough\n  3. Increasing the pool_size (although this increases resource consumption)\n  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval\n\nSee DBConnection.start_link/2 for more information\n", reason: :queue_timeout, severity: :error}
+2025-01-08T11:00:50.395 application=indexer fetcher=block_catchup first_block_number=6279569 last_block_number=6279560 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1424ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:50.395 application=indexer fetcher=block_catchup first_block_number=6279509 last_block_number=6279500 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1423ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:50.395 application=indexer fetcher=block_catchup first_block_number=6279599 last_block_number=6279590 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1427ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:50.395 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "connection not available and request was dropped from queue after 1988ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:\n\n  1. Ensuring your database is available and that you can connect to it\n  2. Tracking down slow queries and making sure they are running fast enough\n  3. Increasing the pool_size (although this increases resource consumption)\n  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval\n\nSee DBConnection.start_link/2 for more information\n", reason: :queue_timeout, severity: :error}
+2025-01-08T11:00:50.395 application=indexer fetcher=block_catchup first_block_number=6279559 last_block_number=6279550 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1426ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:50.396 application=indexer fetcher=block_catchup first_block_number=6279529 last_block_number=6279520 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1424ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:50.396 application=indexer fetcher=block_catchup first_block_number=6279539 last_block_number=6279530 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1422ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:50.396 application=indexer fetcher=block_catchup first_block_number=6279519 last_block_number=6279510 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1419ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:50.396 application=indexer fetcher=block_catchup first_block_number=6279579 last_block_number=6279570 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1426ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:50.396 application=indexer fetcher=block_catchup first_block_number=6279589 last_block_number=6279580 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1421ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:50.396 application=indexer fetcher=block_catchup first_block_number=6279549 last_block_number=6279540 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 1424ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:51.545 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "connection not available and request was dropped from queue after 1148ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:\n\n  1. Ensuring your database is available and that you can connect to it\n  2. Tracking down slow queries and making sure they are running fast enough\n  3. Increasing the pool_size (although this increases resource consumption)\n  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval\n\nSee DBConnection.start_link/2 for more information\n", reason: :queue_timeout, severity: :error}
+2025-01-08T11:00:51.545 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "connection not available and request was dropped from queue after 1148ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:\n\n  1. Ensuring your database is available and that you can connect to it\n  2. Tracking down slow queries and making sure they are running fast enough\n  3. Increasing the pool_size (although this increases resource consumption)\n  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval\n\nSee DBConnection.start_link/2 for more information\n", reason: :queue_timeout, severity: :error}
+2025-01-08T11:00:51.548 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "connection not available and request was dropped from queue after 1096ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:\n\n  1. Ensuring your database is available and that you can connect to it\n  2. Tracking down slow queries and making sure they are running fast enough\n  3. Increasing the pool_size (although this increases resource consumption)\n  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval\n\nSee DBConnection.start_link/2 for more information\n", reason: :queue_timeout, severity: :error}
+2025-01-08T11:00:51.548 application=indexer fetcher=block_catchup first_block_number=6279409 last_block_number=6279400 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 587ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:51.548 application=indexer fetcher=block_catchup first_block_number=6279479 last_block_number=6279470 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 584ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:51.548 application=indexer fetcher=block_catchup first_block_number=6279429 last_block_number=6279420 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 581ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:51.548 application=indexer fetcher=block_catchup first_block_number=6279419 last_block_number=6279410 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 586ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:51.548 application=indexer fetcher=block_catchup first_block_number=6279469 last_block_number=6279460 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 584ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:51.549 application=indexer fetcher=block_catchup first_block_number=6279439 last_block_number=6279430 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 585ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:51.549 application=indexer fetcher=block_catchup first_block_number=6279489 last_block_number=6279480 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 583ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:51.549 application=indexer fetcher=block_catchup first_block_number=6279449 last_block_number=6279440 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 587ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:51.549 application=indexer fetcher=block_catchup first_block_number=6279459 last_block_number=6279450 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 586ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:51.549 application=indexer fetcher=block_catchup first_block_number=6279499 last_block_number=6279490 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 583ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:52.034 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T11:00:52.114 application=indexer fetcher=block_catchup first_block_number=6279359 last_block_number=6279350 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 107ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:52.114 application=indexer fetcher=block_catchup first_block_number=6279319 last_block_number=6279310 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 109ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:52.114 application=indexer fetcher=block_catchup first_block_number=6279309 last_block_number=6279300 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 105ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:00:52.340 application=indexer fetcher=internal_transaction count=10 error_count=10 [error] failed to fetch internal transactions for blocks: %DBConnection.ConnectionError{message: "connection not available and request was dropped from queue after 212ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:\n\n  1. Ensuring your database is available and that you can connect to it\n  2. Tracking down slow queries and making sure they are running fast enough\n  3. Increasing the pool_size (although this increases resource consumption)\n  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval\n\nSee DBConnection.start_link/2 for more information\n", reason: :queue_timeout, severity: :error}
+2025-01-08T11:00:52.341 application=indexer fetcher=block_catchup first_block_number=6279339 last_block_number=6279330 [error] ** (DBConnection.ConnectionError) connection not available and request was dropped from queue after 214ms. This means requests are coming in and your connection pool cannot serve them fast enough. You can address this by:
+
+  1. Ensuring your database is available and that you can connect to it
+  2. Tracking down slow queries and making sure they are running fast enough
+  3. Increasing the pool_size (although this increases resource consumption)
+  4. Allowing requests to wait longer by increasing :queue_target and :queue_interval
+
+See DBConnection.start_link/2 for more information
+
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:913: Ecto.Adapters.SQL.raise_sql_call_error/1
+    (ecto_sql 3.9.2) lib/ecto/adapters/sql.ex:828: Ecto.Adapters.SQL.execute/6
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:229: Ecto.Repo.Queryable.execute/4
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:19: Ecto.Repo.Queryable.all/3
+    (ecto 3.9.4) lib/ecto/repo/queryable.ex:151: Ecto.Repo.Queryable.one/3
+    (explorer 5.0.0) lib/explorer/chain.ex:885: Explorer.Chain.block_reward_by_parts/2
+    (indexer 5.0.0) lib/indexer/block/fetcher.ex:368: Indexer.Block.Fetcher.fetch_beneficiaries_manual/2
+    (elixir 1.13.1) lib/enum.ex:1593: Enum."-map/2-lists^map/1-0-"/2
+
+
+Retrying.
+2025-01-08T11:49:59.542 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T11:49:59.706 application=indexer fetcher=empty_blocks_to_refetch [info] Batch of empty blocks is sanitized
+2025-01-08T11:50:09.707 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T11:50:29.142 application=indexer fetcher=block_catchup first_block_number=6305110 last_block_number=6305101 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T11:52:32.972 application=indexer fetcher=block_catchup first_block_number=6300600 last_block_number=6300591 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T11:52:34.407 application=indexer fetcher=block_catchup first_block_number=6300540 last_block_number=6300531 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T11:52:34.812 application=indexer fetcher=block_catchup first_block_number=6300430 last_block_number=6300421 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T11:52:35.378 application=indexer fetcher=block_catchup first_block_number=6300530 last_block_number=6300521 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T11:52:35.392 application=indexer fetcher=block_catchup first_block_number=6300380 last_block_number=6300371 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T11:52:37.871 application=indexer fetcher=block_realtime block_number=6305153 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}.  Block will be retried by catchup indexer.
+2025-01-08T11:52:38.397 application=indexer fetcher=block_catchup first_block_number=6300180 last_block_number=6300171 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T11:53:32.668 application=indexer fetcher=block_catchup first_block_number=6298330 last_block_number=6298321 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T11:53:33.747 application=indexer fetcher=pending_transaction [error] {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}
+2025-01-08T11:54:38.321 application=indexer fetcher=block_catchup first_block_number=6298270 last_block_number=6298261 step=blocks [error] failed to fetch: :timeout. Retrying.
+2025-01-08T11:54:38.398 application=indexer fetcher=block_catchup first_block_number=6298260 last_block_number=6298251 step=blocks [error] failed to fetch: :timeout. Retrying.
+2025-01-08T11:54:54.389 application=indexer fetcher=block_catchup first_block_number=6298250 last_block_number=6298241 step=blocks [error] failed to fetch: :timeout. Retrying.
+2025-01-08T11:54:57.005 application=indexer fetcher=block_catchup first_block_number=6298240 last_block_number=6298231 step=blocks [error] failed to fetch: :timeout. Retrying.
+2025-01-08T11:54:59.989 application=indexer fetcher=block_catchup first_block_number=6298230 last_block_number=6298221 step=blocks [error] failed to fetch: :timeout. Retrying.
+2025-01-08T11:55:17.169 application=indexer fetcher=block_realtime block_number=6305157 step=balances [error] failed to fetch: :timeout.  Block will be retried by catchup indexer.
+2025-01-08T11:55:18.768 application=indexer fetcher=block_catchup first_block_number=6298220 last_block_number=6298211 step=blocks [error] failed to fetch: :timeout. Retrying.
+2025-01-08T11:55:38.907 application=indexer fetcher=block_catchup first_block_number=6297350 last_block_number=6297341 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T11:57:23.356 application=indexer fetcher=block_catchup first_block_number=6292850 last_block_number=6292841 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T11:57:23.413 application=indexer fetcher=block_catchup first_block_number=6292860 last_block_number=6292851 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T12:05:02.773 application=indexer fetcher=empty_blocks_to_refetch [info] Batch of empty blocks is sanitized
+2025-01-08T12:05:12.774 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T12:09:51.334 application=indexer fetcher=block_catchup first_block_number=6215760 last_block_number=6215751 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T12:11:47.178 application=indexer fetcher=block_catchup first_block_number=6305140 last_block_number=6205141 missing_block_count=100000 shrunk=false [info] Index had to catch up.
+2025-01-08T12:11:47.178 application=indexer fetcher=block_catchup [info] Checking if index needs to catch up in 2500ms.
+2025-01-08T12:14:08.081 application=indexer fetcher=empty_blocks_to_refetch [info] Batch of empty blocks is sanitized
+2025-01-08T12:14:18.083 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T12:14:33.092 application=indexer fetcher=block_catchup first_block_number=6190030 last_block_number=6190021 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T12:23:32.063 application=indexer fetcher=empty_blocks_to_refetch [info] Batch of empty blocks is sanitized
+2025-01-08T12:23:42.064 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T12:32:08.398 application=indexer fetcher=empty_blocks_to_refetch [info] Batch of empty blocks is sanitized
+2025-01-08T12:32:18.400 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T12:40:59.808 application=indexer fetcher=empty_blocks_to_refetch [info] Batch of empty blocks is sanitized
+2025-01-08T12:41:09.810 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T12:48:25.160 application=indexer fetcher=block_catchup first_block_number=5992730 last_block_number=5992721 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T12:49:35.818 application=indexer fetcher=pending_transaction [error] {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}
+2025-01-08T12:51:21.171 application=indexer fetcher=block_catchup first_block_number=5988840 last_block_number=5988831 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T12:53:05.062 application=indexer fetcher=block_catchup first_block_number=5985530 last_block_number=5985521 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T12:53:05.382 application=indexer fetcher=block_catchup first_block_number=5985600 last_block_number=5985591 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T12:53:05.934 application=indexer fetcher=block_catchup first_block_number=5985450 last_block_number=5985441 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T12:53:15.437 application=indexer fetcher=block_catchup first_block_number=5984860 last_block_number=5984851 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T12:55:44.949 application=indexer fetcher=empty_blocks_to_refetch [info] Batch of empty blocks is sanitized
+2025-01-08T12:55:54.950 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T12:55:56.922 application=indexer fetcher=block_catchup first_block_number=5980190 last_block_number=5980181 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T13:07:20.508 application=indexer fetcher=empty_blocks_to_refetch [info] Batch of empty blocks is sanitized
+2025-01-08T13:07:30.509 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T13:10:46.127 application=indexer fetcher=block_catchup first_block_number=5930020 last_block_number=5930011 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T13:11:46.035 application=indexer fetcher=block_catchup first_block_number=5928180 last_block_number=5928171 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T13:13:33.499 application=indexer fetcher=block_catchup first_block_number=5927590 last_block_number=5927581 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T13:13:33.985 application=indexer fetcher=block_catchup first_block_number=5927710 last_block_number=5927701 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T13:13:35.459 application=indexer fetcher=block_catchup first_block_number=5927690 last_block_number=5927681 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T13:13:36.090 application=indexer fetcher=block_catchup first_block_number=5927490 last_block_number=5927481 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T13:41:17.348 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T13:41:17.752 application=indexer fetcher=empty_blocks_to_refetch [info] Batch of empty blocks is sanitized
+2025-01-08T13:41:27.753 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T13:41:27.836 application=indexer fetcher=empty_blocks_to_refetch [info] Batch of empty blocks is sanitized
+2025-01-08T13:41:37.837 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T13:41:46.872 application=indexer fetcher=block_catchup first_block_number=6305728 last_block_number=6305719 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T13:41:46.879 application=indexer fetcher=block_catchup first_block_number=6305748 last_block_number=6305739 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T13:41:46.941 application=indexer fetcher=block_catchup first_block_number=6305808 last_block_number=6305799 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T13:43:30.536 application=indexer fetcher=block_catchup first_block_number=6303038 last_block_number=6303029 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T13:43:31.487 application=indexer fetcher=block_catchup first_block_number=6302968 last_block_number=6302959 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T13:43:32.002 application=indexer fetcher=pending_transaction [error] {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}
+2025-01-08T13:45:32.678 application=indexer fetcher=block_catchup first_block_number=6299258 last_block_number=6299249 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T13:45:34.581 application=indexer fetcher=pending_transaction [error] {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}
+2025-01-08T13:46:32.439 application=indexer fetcher=block_catchup first_block_number=6295788 last_block_number=6295779 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T13:48:21.180 application=indexer fetcher=block_catchup first_block_number=6295478 last_block_number=6295469 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T13:48:23.570 application=indexer fetcher=block_catchup first_block_number=6295058 last_block_number=6295049 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T13:52:48.551 application=indexer fetcher=empty_blocks_to_refetch [info] Batch of empty blocks is sanitized
+2025-01-08T13:52:58.551 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T14:01:04.889 application=indexer fetcher=block_catchup first_block_number=6305808 last_block_number=6205809 missing_block_count=100000 shrunk=false [info] Index had to catch up.
+2025-01-08T14:01:04.889 application=indexer fetcher=block_catchup [info] Checking if index needs to catch up in 2500ms.
+2025-01-08T14:01:16.806 application=indexer fetcher=empty_blocks_to_refetch [info] Batch of empty blocks is sanitized
+2025-01-08T14:01:26.807 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T14:02:59.039 application=indexer fetcher=block_catchup first_block_number=6197748 last_block_number=6197739 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:03:08.598 application=indexer fetcher=block_catchup first_block_number=6196688 last_block_number=6196679 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:06:56.961 application=indexer fetcher=block_catchup first_block_number=6187618 last_block_number=6187609 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:08:40.891 application=indexer fetcher=block_catchup first_block_number=6182978 last_block_number=6182969 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:08:41.680 application=indexer fetcher=block_catchup first_block_number=6183008 last_block_number=6182999 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:08:42.172 application=indexer fetcher=block_catchup first_block_number=6182868 last_block_number=6182859 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:08:42.950 application=indexer fetcher=block_catchup first_block_number=6182818 last_block_number=6182809 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:08:43.118 application=indexer fetcher=block_catchup first_block_number=6182968 last_block_number=6182959 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:09:41.054 application=indexer fetcher=block_catchup first_block_number=6180518 last_block_number=6180509 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:11:06.177 application=indexer fetcher=block_catchup first_block_number=6180348 last_block_number=6180339 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:11:31.162 application=indexer fetcher=block_catchup first_block_number=6180438 last_block_number=6180429 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:12:12.123 application=indexer fetcher=block_realtime block_number=6305988 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}.  Block will be retried by catchup indexer.
+2025-01-08T14:12:53.597 application=indexer fetcher=block_catchup first_block_number=6179198 last_block_number=6179189 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:13:33.020 application=indexer fetcher=block_catchup first_block_number=6179058 last_block_number=6179049 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:15:21.055 application=indexer fetcher=block_catchup first_block_number=6178788 last_block_number=6178779 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:15:22.083 application=indexer fetcher=block_catchup first_block_number=6178758 last_block_number=6178749 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:15:25.042 application=indexer fetcher=block_catchup first_block_number=6178748 last_block_number=6178739 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:17:45.057 application=indexer fetcher=block_catchup first_block_number=6173548 last_block_number=6173539 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:19:29.889 application=indexer fetcher=block_catchup first_block_number=6169078 last_block_number=6169069 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:19:30.164 application=indexer fetcher=block_catchup first_block_number=6168948 last_block_number=6168939 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:19:39.203 application=indexer fetcher=block_catchup first_block_number=6168428 last_block_number=6168419 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:22:14.393 application=indexer fetcher=block_catchup first_block_number=6165528 last_block_number=6165519 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:22:18.565 application=indexer fetcher=block_catchup first_block_number=6165388 last_block_number=6165379 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:22:19.469 application=indexer fetcher=pending_transaction [error] {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}
+2025-01-08T14:22:20.447 application=indexer fetcher=block_catchup first_block_number=6165268 last_block_number=6165259 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:23:07.400 application=indexer fetcher=block_catchup first_block_number=6163548 last_block_number=6163539 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:23:14.723 application=indexer fetcher=block_catchup first_block_number=6163558 last_block_number=6163549 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:23:39.671 application=indexer fetcher=block_catchup first_block_number=6163628 last_block_number=6163619 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:23:39.719 application=indexer fetcher=block_catchup first_block_number=6163618 last_block_number=6163609 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:23:39.768 application=indexer fetcher=block_catchup first_block_number=6163608 last_block_number=6163599 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:23:39.823 application=indexer fetcher=block_catchup first_block_number=6163598 last_block_number=6163589 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:23:39.825 application=indexer fetcher=block_realtime block_number=6306053 step=import [error] failed to validate for block 6306053: [#Ecto.Changeset<action: nil, changes: %{address_hash: %Explorer.Chain.Hash{byte_count: 20, bytes: <<33, 191, 211, 139, 217, 64, 222, 72, 106, 164, 214, 74, 133, 176, 141, 71, 178, 92, 204, 24>>}, value: #Explorer.Chain.Wei<106442914310423676999999983>}, errors: [day: {"can't be blank", [validation: :required]}], data: #Explorer.Chain.Address.CoinBalanceDaily<>, valid?: false>].  Block will be retried by catchup indexer.
+2025-01-08T14:23:39.877 application=indexer fetcher=block_catchup first_block_number=6163588 last_block_number=6163579 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:23:40.218 application=indexer fetcher=block_catchup first_block_number=6163578 last_block_number=6163569 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:23:40.377 application=indexer fetcher=block_catchup first_block_number=6163568 last_block_number=6163559 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:25:21.262 application=indexer fetcher=block_catchup first_block_number=6163508 last_block_number=6163499 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:25:21.387 application=indexer fetcher=block_catchup first_block_number=6163538 last_block_number=6163529 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:25:23.140 application=indexer fetcher=pending_transaction [error] {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}
+2025-01-08T14:25:39.769 application=indexer fetcher=block_catchup first_block_number=6163488 last_block_number=6163479 step=blocks [error] failed to fetch: :timeout. Retrying.
+2025-01-08T14:25:39.824 application=indexer fetcher=block_catchup first_block_number=6163478 last_block_number=6163469 step=blocks [error] failed to fetch: :timeout. Retrying.
+2025-01-08T14:25:39.878 application=indexer fetcher=block_catchup first_block_number=6163468 last_block_number=6163459 step=blocks [error] failed to fetch: :timeout. Retrying.
+2025-01-08T14:25:40.219 application=indexer fetcher=block_catchup first_block_number=6163458 last_block_number=6163449 step=blocks [error] failed to fetch: :timeout. Retrying.
+2025-01-08T14:25:40.378 application=indexer fetcher=block_catchup first_block_number=6163448 last_block_number=6163439 step=blocks [error] failed to fetch: :timeout. Retrying.
+2025-01-08T14:27:45.170 application=indexer fetcher=pending_transaction [error] {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}
+2025-01-08T14:27:56.502 application=indexer fetcher=block_catchup first_block_number=6161478 last_block_number=6161469 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:29:48.484 application=indexer fetcher=block_catchup first_block_number=6158028 last_block_number=6158019 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:29:56.074 application=indexer fetcher=block_catchup first_block_number=6157588 last_block_number=6157579 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:31:33.580 application=indexer fetcher=block_catchup first_block_number=6154088 last_block_number=6154079 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:32:03.210 application=indexer fetcher=block_catchup first_block_number=6151458 last_block_number=6151449 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:34:03.210 application=indexer fetcher=block_catchup first_block_number=6149108 last_block_number=6149099 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:35:39.468 application=indexer fetcher=block_catchup first_block_number=6145328 last_block_number=6145319 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:37:40.958 application=indexer fetcher=empty_blocks_to_refetch [info] Batch of empty blocks is sanitized
+2025-01-08T14:37:50.959 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T14:38:09.548 application=indexer fetcher=block_catchup first_block_number=6144738 last_block_number=6144729 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:38:27.254 application=indexer fetcher=block_catchup first_block_number=6143278 last_block_number=6143269 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:38:33.262 application=indexer fetcher=block_catchup first_block_number=6142788 last_block_number=6142779 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:39:08.723 application=indexer fetcher=block_catchup first_block_number=6141488 last_block_number=6141479 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:40:56.326 application=indexer fetcher=block_realtime block_number=6306163 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}.  Block will be retried by catchup indexer.
+2025-01-08T14:40:57.322 application=indexer fetcher=block_catchup first_block_number=6140878 last_block_number=6140869 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:40:57.675 application=indexer fetcher=block_catchup first_block_number=6141288 last_block_number=6141279 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:43:44.730 application=indexer fetcher=block_catchup first_block_number=6137388 last_block_number=6137379 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:43:45.357 application=indexer fetcher=block_catchup first_block_number=6137498 last_block_number=6137489 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:43:45.425 application=indexer fetcher=pending_transaction [error] {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}
+2025-01-08T14:43:57.530 application=indexer fetcher=block_catchup first_block_number=6136518 last_block_number=6136509 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:44:44.119 application=indexer fetcher=block_catchup first_block_number=6134098 last_block_number=6134089 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:45:29.174 application=indexer fetcher=block_realtime block_number=6306184 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}.  Block will be retried by catchup indexer.
+2025-01-08T14:47:13.406 application=indexer fetcher=block_catchup first_block_number=6133638 last_block_number=6133629 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:47:26.532 application=indexer fetcher=block_catchup first_block_number=6132818 last_block_number=6132809 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:47:26.944 application=indexer fetcher=block_catchup first_block_number=6132778 last_block_number=6132769 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:48:12.514 application=indexer fetcher=block_catchup first_block_number=6130608 last_block_number=6130599 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:49:16.002 application=indexer fetcher=block_catchup first_block_number=6130508 last_block_number=6130499 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:49:52.576 application=indexer fetcher=block_catchup first_block_number=6130348 last_block_number=6130339 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:51:39.029 application=indexer fetcher=block_realtime block_number=6306227 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}.  Block will be retried by catchup indexer.
+2025-01-08T14:51:41.239 application=indexer fetcher=block_catchup first_block_number=6129968 last_block_number=6129959 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:51:44.196 application=indexer fetcher=block_catchup first_block_number=6129228 last_block_number=6129219 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:51:51.017 application=indexer fetcher=block_catchup first_block_number=6128668 last_block_number=6128659 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:52:38.119 application=indexer fetcher=block_catchup first_block_number=6126018 last_block_number=6126009 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:52:39.097 application=indexer fetcher=block_catchup first_block_number=6125978 last_block_number=6125969 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:54:19.671 application=indexer fetcher=block_catchup first_block_number=6125928 last_block_number=6125919 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:54:22.731 application=indexer fetcher=pending_transaction [error] {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}
+2025-01-08T14:54:28.603 application=indexer fetcher=block_catchup first_block_number=6125898 last_block_number=6125889 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:55:07.274 application=indexer fetcher=block_catchup first_block_number=6125848 last_block_number=6125839 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:56:23.579 application=indexer fetcher=block_catchup first_block_number=6124148 last_block_number=6124139 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:58:07.978 application=indexer fetcher=block_catchup first_block_number=6122738 last_block_number=6122729 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:58:15.101 application=indexer fetcher=block_catchup first_block_number=6122078 last_block_number=6122069 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:59:53.114 application=indexer fetcher=block_catchup first_block_number=6119188 last_block_number=6119179 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T14:59:53.285 application=indexer fetcher=pending_transaction [error] {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}
+2025-01-08T15:01:57.778 application=indexer fetcher=block_realtime block_number=6306281 step=balances [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}.  Block will be retried by catchup indexer.
+2025-01-08T15:02:01.546 application=indexer fetcher=block_catchup first_block_number=6115118 last_block_number=6115109 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T15:03:40.687 application=indexer fetcher=block_catchup first_block_number=6111408 last_block_number=6111399 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T15:03:43.266 application=indexer fetcher=block_catchup first_block_number=6111068 last_block_number=6111059 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T15:04:40.099 application=indexer fetcher=block_catchup first_block_number=6107588 last_block_number=6107579 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T15:06:28.102 application=indexer fetcher=block_catchup first_block_number=6107048 last_block_number=6107039 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T15:06:33.099 application=indexer fetcher=block_catchup first_block_number=6106558 last_block_number=6106549 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T15:08:11.633 application=indexer fetcher=block_catchup first_block_number=6102818 last_block_number=6102809 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T15:08:45.706 application=indexer fetcher=block_catchup first_block_number=6099788 last_block_number=6099779 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T15:10:36.312 application=indexer fetcher=block_catchup first_block_number=6098568 last_block_number=6098559 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T15:10:37.580 application=indexer fetcher=block_catchup first_block_number=6098948 last_block_number=6098939 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T15:10:39.145 application=indexer fetcher=block_catchup first_block_number=6098938 last_block_number=6098929 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T15:10:45.669 application=indexer fetcher=pending_transaction [error] {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}
+2025-01-08T15:11:36.456 application=indexer fetcher=block_catchup first_block_number=6095458 last_block_number=6095449 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T15:15:42.242 application=indexer fetcher=empty_blocks_to_refetch [info] Batch of empty blocks is sanitized
+2025-01-08T15:15:52.243 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T15:24:23.104 application=indexer fetcher=empty_blocks_to_refetch [info] Batch of empty blocks is sanitized
+2025-01-08T15:24:33.104 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T15:33:45.527 application=indexer fetcher=empty_blocks_to_refetch [info] Batch of empty blocks is sanitized
+2025-01-08T15:33:55.528 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T15:35:46.219 application=indexer fetcher=block_catchup first_block_number=5968268 last_block_number=5968259 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T15:39:22.126 application=indexer fetcher=block_catchup first_block_number=5957708 last_block_number=5957699 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T15:47:03.504 application=indexer fetcher=empty_blocks_to_refetch [info] Batch of empty blocks is sanitized
+2025-01-08T15:47:13.505 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T15:48:52.303 application=indexer fetcher=block_catchup first_block_number=5927118 last_block_number=5927109 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T15:52:41.524 application=indexer fetcher=block_catchup first_block_number=5917898 last_block_number=5917889 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T15:54:25.597 application=indexer fetcher=block_catchup first_block_number=5915248 last_block_number=5915239 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T15:54:26.528 application=indexer fetcher=block_catchup first_block_number=5915338 last_block_number=5915329 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T15:54:26.559 application=indexer fetcher=block_catchup first_block_number=5915228 last_block_number=5915219 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T15:54:26.575 application=indexer fetcher=block_catchup first_block_number=5915318 last_block_number=5915309 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T15:56:30.663 application=indexer fetcher=block_catchup first_block_number=5913238 last_block_number=5913229 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T15:58:16.279 application=indexer fetcher=block_catchup first_block_number=5910498 last_block_number=5910489 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:00:01.324 application=indexer fetcher=block_catchup first_block_number=5907388 last_block_number=5907379 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:01:22.725 application=indexer fetcher=block_catchup first_block_number=5904238 last_block_number=5904229 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:01:45.672 application=indexer fetcher=block_catchup first_block_number=5903988 last_block_number=5903979 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:03:28.605 application=indexer fetcher=block_catchup first_block_number=5902998 last_block_number=5902989 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:03:29.760 application=indexer fetcher=block_catchup first_block_number=5902828 last_block_number=5902819 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:03:31.402 application=indexer fetcher=block_catchup first_block_number=5902778 last_block_number=5902769 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:05:31.831 application=indexer fetcher=block_catchup first_block_number=5900198 last_block_number=5900189 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:05:42.615 application=indexer fetcher=block_catchup first_block_number=5898498 last_block_number=5898489 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:05:58.343 application=indexer fetcher=block_catchup first_block_number=5898688 last_block_number=5898679 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:06:40.330 application=indexer fetcher=block_catchup first_block_number=5897918 last_block_number=5897909 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:08:21.479 application=indexer fetcher=block_catchup first_block_number=5897668 last_block_number=5897659 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:08:39.681 application=indexer fetcher=block_catchup first_block_number=5894928 last_block_number=5894919 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:10:26.138 application=indexer fetcher=block_catchup first_block_number=5894458 last_block_number=5894449 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:12:10.178 application=indexer fetcher=block_catchup first_block_number=5891528 last_block_number=5891519 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:12:10.460 application=indexer fetcher=block_catchup first_block_number=5891538 last_block_number=5891529 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:14:57.344 application=indexer fetcher=empty_blocks_to_refetch [info] Batch of empty blocks is sanitized
+2025-01-08T16:15:07.343 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T16:15:58.738 application=indexer fetcher=block_catchup first_block_number=5885348 last_block_number=5885339 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:15:59.753 application=indexer fetcher=block_catchup first_block_number=5885338 last_block_number=5885329 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:16:00.634 application=indexer fetcher=block_catchup first_block_number=5885178 last_block_number=5885169 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:18:01.573 application=indexer fetcher=block_catchup first_block_number=5882988 last_block_number=5882979 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:18:09.697 application=indexer fetcher=block_catchup first_block_number=5882168 last_block_number=5882159 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:18:40.364 application=indexer fetcher=block_catchup first_block_number=5880178 last_block_number=5880169 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:20:31.300 application=indexer fetcher=block_catchup first_block_number=5879498 last_block_number=5879489 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:20:31.320 application=indexer fetcher=block_catchup first_block_number=5879488 last_block_number=5879479 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:20:33.767 application=indexer fetcher=block_realtime block_number=6306761 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}.  Block will be retried by catchup indexer.
+2025-01-08T16:20:33.842 application=indexer fetcher=block_catchup first_block_number=5879388 last_block_number=5879379 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:22:51.603 application=indexer fetcher=block_catchup first_block_number=5876198 last_block_number=5876189 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:23:20.241 application=indexer fetcher=block_catchup first_block_number=5877198 last_block_number=5877189 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:28:28.504 application=indexer fetcher=block_catchup first_block_number=5864078 last_block_number=5864069 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:30:16.714 application=indexer fetcher=block_catchup first_block_number=5862018 last_block_number=5862009 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:32:04.553 application=indexer fetcher=block_catchup first_block_number=5858988 last_block_number=5858979 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:33:48.347 application=indexer fetcher=block_catchup first_block_number=5856238 last_block_number=5856229 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:34:10.718 application=indexer fetcher=block_catchup first_block_number=5854898 last_block_number=5854889 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:34:45.688 application=indexer fetcher=block_catchup first_block_number=5853928 last_block_number=5853919 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:34:46.880 application=indexer fetcher=block_catchup first_block_number=5853888 last_block_number=5853879 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:35:28.354 application=indexer fetcher=block_catchup first_block_number=5853798 last_block_number=5853789 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:35:29.223 application=indexer fetcher=block_catchup first_block_number=5853788 last_block_number=5853779 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:37:38.732 application=indexer fetcher=block_catchup first_block_number=5852388 last_block_number=5852379 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:38:19.186 application=indexer fetcher=block_realtime block_number=6306865 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}.  Block will be retried by catchup indexer.
+2025-01-08T16:40:25.493 application=indexer fetcher=block_catchup first_block_number=5848318 last_block_number=5848309 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:42:10.750 application=indexer fetcher=block_catchup first_block_number=5846738 last_block_number=5846729 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:44:34.722 application=indexer fetcher=block_catchup first_block_number=5840328 last_block_number=5840319 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:46:20.770 application=indexer fetcher=block_catchup first_block_number=5838908 last_block_number=5838899 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:46:20.842 application=indexer fetcher=block_catchup first_block_number=5838888 last_block_number=5838879 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:48:06.288 application=indexer fetcher=empty_blocks_to_refetch [info] Batch of empty blocks is sanitized
+2025-01-08T16:48:16.289 application=indexer fetcher=empty_blocks_to_refetch [info] Start sanitizing of empty blocks. Batch size is 1000
+2025-01-08T16:52:03.603 application=indexer fetcher=block_catchup first_block_number=5826048 last_block_number=5826039 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
+2025-01-08T16:53:52.762 application=indexer fetcher=block_catchup first_block_number=5824508 last_block_number=5824499 step=blocks [error] failed to fetch: {:bad_response, "https://brnkc-mainnet.bearnetwork.net"}. Retrying.
