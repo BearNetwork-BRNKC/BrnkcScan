@@ -21,7 +21,7 @@ $dark-primary-alternate: $dark-primary;
 		background-color: $dark-light-bg !important;
 	}
 	.navbar-brand .navbar-logo {
-		filter: brightness(0) invert(1);
+		filter: none;
 	}
 	.navbar.navbar-primary .navbar-nav .nav-link {
 		color: $labels-dark;
@@ -52,7 +52,7 @@ $dark-primary-alternate: $dark-primary;
 		}
 	}
 	.navbar.navbar-primary .navbar-toggler .navbar-toggler-icon {
-		filter: invert(1);
+		filter: none;
 	}
 
 	// footer
@@ -466,7 +466,7 @@ $dark-primary-alternate: $dark-primary;
 
 	// coin balance history chart
 	.chartjs-render-monitor[data-chart="coinBalanceHistoryChart"] {
-		filter: brightness(0) invert(1) !important;
+		filter: none !important;
 	}
 
 	// logs search

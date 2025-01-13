@@ -9,7 +9,7 @@ $footer-background-color: #18344a;
 $footer-title-color: #fff;
 $footer-text-color: #fff;
 $footer-item-disc-color: $secondary;
-.footer-logo { filter: brightness(0) invert(1); }
+.footer-logo { filter: none; }
 
 // dashboard
 $dashboard-line-color-price: $tertiary; // price left border
@@ -75,6 +75,6 @@ $api-text-monospace-color: $primary;
 }
 
 // Dark theme
-$dark-primary: #294f6e;
+$dark-primary: #ffffff;
 $dark-secondary: #87e1a9;
-$dark-primary-alternate: #294f6e; 
+$dark-primary-alternate: #ffffff; 
