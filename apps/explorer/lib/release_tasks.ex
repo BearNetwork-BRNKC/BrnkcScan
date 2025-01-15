@@ -67,7 +67,8 @@ defmodule Explorer.ReleaseTasks do
   defp create_db_for(repo) do
     IO.puts("Create #{inspect(repo)} database if it doesn't exist")
 
-    case repo.__adapter__.storage_up(repo.config) do
+    # 修改這一行：將 repo.__adapter__ 改為 repo.__adapter__()
+    case repo.__adapter__().storage_up(repo.config) do
       :ok -> :ok
       {:error, :already_up} -> :ok
       {:error, term} -> {:error, term}
