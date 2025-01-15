@@ -13,7 +13,7 @@ services:
     restart: always
     container_name: 'postgres'
     environment:
-        POSTGRES_PASSWORD: ''
+        POSTGRES_PASSWORD: 'chenting19751230'
         POSTGRES_USER: 'postgres'
         POSTGRES_HOST_AUTH_METHOD: 'trust'
     ports:
@@ -44,13 +44,13 @@ services:
     container_name: 'blockscout'
     links:
       - db:database
-    command: bash -c "bin/blockscout eval \"Elixir.Explorer.ReleaseTasks.create_and_migrate()\" && bin/blockscout start"
+    command: sh -c "bin/blockscout eval \"Elixir.Explorer.ReleaseTasks.create_and_migrate()\" && bin/blockscout start"
     extra_hosts:
       - 'host.docker.internal:host-gateway'
     env_file:
       -  ./envs/common-blockscout.env
     ports:
-      - 4000:4000
+      - 12500:4000
     volumes:
       - ./logs/:/app/logs/
 
