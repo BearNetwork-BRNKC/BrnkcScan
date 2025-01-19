@@ -22,7 +22,9 @@ pre {
   margin-right: .5em;
   color: #888;
   -webkit-user-select: none;
+  user-select: none;
 }
+
 
 .pre-scrollable-shorty {
   max-height: math.div($pre-scrollable-max-height, 7);
